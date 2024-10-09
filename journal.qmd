@@ -1,0 +1,98 @@
+---
+title: journal acara ikhtibar akbar XX
+description: dokumen pribadi untuk tracking seluruh progress ikhtibar
+date: 09/28/2024
+author: Sulthan A. Karimov
+categories: [ikhtibar, acara, mdta, tasyakuran XX]
+draft: false
+show: true
+freeze: true
+---
+
+# Ikhtibar Akbar XX
+bismillahirrahmanirrahim, 20 tahun bukanlah waktu yang sebentar. 20 tahun mewakili keikhlasan, ketekunan dan kerja keras. 
+
+## Konsep
+| Acara    | Nama                |
+|----------+---------------------|
+| Tausiyah | Ust. Muhammad Akrom |
+| MC       |                     |
+| Qori     |                     |
+| Khotimin |                     |
+
+### Khataman
+**Peserta:**
+
+* Ahmad Nur Shodiq
+* Muhammad Ilham Saputra
+
+### Khitan Massal
+
+### Lomba
+
+#### Lomba Eksternal
+* 
+
+#### Lomba Internal
+
+##### Lomba-lomba wajib
+* Hadroh
+* Hafalan Surat-surat Wajib
+* Hafalan Do'a Wajib
+* Cerdas Cermat (MDTA 2 & 3)
+
+## Persiapan
+* [ ] susunan panitia
+
+| Seksi           | PJ                 |
+|-----------------+--------------------|
+| Ketua Pelaksana | Sulthan A. Karimov |
+| Sekretaris      | Ilham Saputra      |
+| Bendahara       | Riana              |
+| Dokumentasi     | Falka              |
+| Humas           | Shodiq             |
+| Acara           | Anis               |
+| Sound           | Al-Falah           |
+| Lomba           | Mbak Tista         |
+| Dekorasi        | Fajar              |
+| Perlengkapan    | Yoga               |
+| Konsumsi        | Shofie             |
+| Penerima Tamu   | Khaera             |
+
+
+* [ ] susunan acara
+* [ ] susunan lomba
+* [ ] jadwal kegiatan
+* [ ] rincian anggaran
+
+## Catatan
+
+### Sebab-sebab Biaya
+
+#### Tahunan
+| Keterangan             | Jumlah Biaya   |
+|------------------------+----------------|
+| Pembelian Hadiah Lomba | Rp. 5.000.000  |
+| Terimakasih Pengajar   | Rp. 3.000.000  |
+| Pembelian Cindera Mata | Rp. 2.500.000  |
+| Konsumsi Perjalanan    | Rp. 4.700.000  |
+| Konsumsi Ikhtibar      | Rp. 2.000.000  |
+| Komsumsi Lomba         | Rp. 500.000    |
+| Sekretaris             | Rp. 300.000    |
+| Dokumentasi            | Rp. 500.000    |
+| Dekorasi               | Rp. 300.000    |
+| Dana cadangan          | Rp. 700.000    |
+| Total                  | Rp. 19.200.000 |
+
+#### Untuk Perayaan XX tahun
+| Keterangan             | Jumlah |
+|------------------------+--------|
+| Penceramah             |        |
+| Sewa Monitor/Videotron |        |
+| Lomba Eksternal        |        |
+| Tambahan Hadiah Lomba  |        |
+| Tambahan Khitan Masal  |        |
+| Tambahan Dekor         |        |
+
+### Hadroh
+* pastikan anak2 junior sudah mulai punya panggung (maulid mingguan, maulid bulanan, maulid dadakan)
