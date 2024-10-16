@@ -1,0 +1,21 @@
+---
+title: Script Film Napak Tilas Ikhtibar Akbar XX Tahun MDTA Fisabilillah
+description: bismillahirrahmanirrahim, 20 tahun bukanlah waktu yang sebentar. 20 tahun mewakili keikhlasan, ketekunan dan kerja keras. 
+date: 10/09/2024
+author: Sulthan A. Karimov
+categories: [film, script, ikhtibar]
+draft: false
+show: true
+freeze: true
+---
+
+## KOMPILASI VIDEO NAPAK TILAS
++-----------------+----------+---------------+-----------------------------------+------------------------------------------------------------------------------------+
+| **Description** | **Time** | **Narration** | **Visuals**                       | **Sound**                                                                          |
++=================+==========+===============+===================================+====================================================================================+
+| Opening         | 3 Sec    | - 20          | Fading Text with Black Background | ketika video mulai musik mulai dari bawah, kemudian naik seiring berjalannya video |
++-----------------+----------+---------------+-----------------------------------+------------------------------------------------------------------------------------+
+| Narasi          | 1 Min    |               |                                   |                                                                                    |
++-----------------+----------+---------------+-----------------------------------+------------------------------------------------------------------------------------+
+
+

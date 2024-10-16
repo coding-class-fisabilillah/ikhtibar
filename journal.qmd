@@ -1,6 +1,6 @@
 ---
 title: journal acara ikhtibar akbar XX
-description: dokumen pribadi untuk tracking seluruh progress ikhtibar
+description: dokumen internal untuk tracking seluruh progress ikhtibar
 date: 09/28/2024
 author: Sulthan A. Karimov
 categories: [ikhtibar, acara, mdta, tasyakuran XX]
@@ -9,29 +9,121 @@ show: true
 freeze: true
 ---
 
+# TODOS
+
+## Pribadi
+
+* [ ] susunan panitia
+* [ ] susunan acara
+* [ ] jadwal kegiatan
+* [ ] rincian anggaran
+* [ ] tentukan tanggal acara
+* [x] kumpulin 4 sekawan (anggi - tiwi - etika)
+* [x] sosialisasi fund raising (rama - fajar)
+* [ ] buat script buat video napak tilas
+* [ ] 
+
+## Khitan Massal
+
+* [ ] jumlah peserta
+* [ ] besar sangu
+* [ ] penampilan hadroh
+* [ ]
+
+## Lomba
+
+* [ ] jenis-jenis lomba
+* [ ] jenis hadiah (hubungannya dengan anggaran)
+* [ ] jadwal lomba
+* [ ]
+
+
 # Ikhtibar Akbar XX
 bismillahirrahmanirrahim, 20 tahun bukanlah waktu yang sebentar. 20 tahun mewakili keikhlasan, ketekunan dan kerja keras. 
 
 ## Konsep
+
+### Susunan Panitia
++------------------------+--------------------+
+| Seksi                  | PJ                 |
++========================+====================+
+| Ketua Pelaksana        | Sulthan A. Karimov |
++------------------------+--------------------+
+| Sekretaris             | Ilham Saputra      |
++------------------------+--------------------+
+| Bendahara              | Bu Siti            |
++------------------------+--------------------+
+| Dokumentasi            | Falka              |
++------------------------+--------------------+
+| Humas                  | Shodiq             |
++------------------------+--------------------+
+| Acara                  | Anis               |
++------------------------+--------------------+
+| Sound                  | Al-Falah           |
++------------------------+--------------------+
+| Dekorasi               | Fajar              |
++------------------------+--------------------+
+| Perlengkapan           | Yoga               |
++------------------------+--------------------+
+| Konsumsi               | Shofie             |
++------------------------+--------------------+
+| Penerima Tamu          | Khaera             |
++------------------------+--------------------+
+| Lomba                  | * Mbak Tista       |
+|                        | * Mbak Wulan       |
++------------------------+--------------------+
+| Khitan                 | Pak Ubay           |
++------------------------+--------------------+
+| Lomba Hadroh           | * Mbak Anggi       |
+|                        | * Mbak Tiwi        |
++------------------------+--------------------+
+| Festival XX Tahun MDTA |                    |
++------------------------+--------------------+
+: {.striped .hover .bordered}
+
+### Susunan Pembimbing
++---------------+-------------------+
+| Seksi         | Pembimbing        |
++===============+===================+
+| Bendahara     | Bu Siti           |
++---------------+-------------------+
+| Dokumentasi   | Pak Rijal         |
++---------------+-------------------+
+| Humas         | Pak Agus Miyanto  |
++---------------+-------------------+
+| Acara         | Bu Nervi          |
++---------------+-------------------+
+| Sound         | Pak Agus Mutholib |
++---------------+-------------------+
+| Dekorasi      | Pak Yitno         |
++---------------+-------------------+
+| Perlengkapan  | Pak Kamdi         |
++---------------+-------------------+
+| Konsumsi      | Bu Yeti           |
++---------------+-------------------+
+| Penerima Tamu | Pak Yanto         |
++---------------+-------------------+
+: {.striped .hover .bordered}
+
+### Acara Puncak
++----------+---------------------+
 | Acara    | Nama                |
-|----------+---------------------|
++==========+=====================+
 | Tausiyah | Ust. Muhammad Akrom |
++----------+---------------------+
 | MC       |                     |
++----------+---------------------+
 | Qori     |                     |
++----------+---------------------+
 | Khotimin |                     |
++----------+---------------------+
+: {.striped .hover .bordered}
 
 ### Khataman
 **Peserta:**
 
 * Ahmad Nur Shodiq
 * Muhammad Ilham Saputra
-
-### Khitan Massal
-
-### Lomba
-
-#### Lomba Eksternal
-* 
 
 #### Lomba Internal
 
@@ -41,58 +133,130 @@ bismillahirrahmanirrahim, 20 tahun bukanlah waktu yang sebentar. 20 tahun mewaki
 * Hafalan Do'a Wajib
 * Cerdas Cermat (MDTA 2 & 3)
 
+#### Festival XX Tahun MDTA
+**Kebutuhan Umum:**
+
+* Poster Iklan Lomba
+* Konsumsi Lomba
+* Hadiah Lomba
+* Tenda
+* Contact Person
+
+##### Kandidat Lomba
+###### Fashion Show anak2
+**Kebutuhan:**
+
+* Karpet Catwalk
+* dekor
+* Sound
+* Juri
+
+###### Sambung Ayat
+**Kebutuhan:**
+
+* dekor panggung
+* sound
+
+###### Mewarnai / Kaligrafi
+**Kebutuhan:**
+
+* dekor lokasi
+* sound
+* kertas
+
+###### Baca Puisi
+**Kebutuhan:**
+
+* sound
+* dekor lokasi
+
+###### Lomba Mendongeng
+**Kebutuhan:**
+
+* sound
+* dekor lokasi
+
+###### Menyanyi Islami
+**Kebutuhan:**
+
+* sound
+* dekor lokasi
+
+###### Karaoke Islami
+**Kebutuhan:**
+
+* peralatan karaoke
+* sound
+* dekor lokasi
+
 ## Persiapan
-* [ ] susunan panitia
-
-| Seksi           | PJ                 |
-|-----------------+--------------------|
-| Ketua Pelaksana | Sulthan A. Karimov |
-| Sekretaris      | Ilham Saputra      |
-| Bendahara       | Riana              |
-| Dokumentasi     | Falka              |
-| Humas           | Shodiq             |
-| Acara           | Anis               |
-| Sound           | Al-Falah           |
-| Lomba           | Mbak Tista         |
-| Dekorasi        | Fajar              |
-| Perlengkapan    | Yoga               |
-| Konsumsi        | Shofie             |
-| Penerima Tamu   | Khaera             |
-
-
-* [ ] susunan acara
-* [ ] susunan lomba
-* [ ] jadwal kegiatan
-* [ ] rincian anggaran
 
 ## Catatan
 
 ### Sebab-sebab Biaya
 
 #### Tahunan
-| Keterangan             | Jumlah Biaya   |
-|------------------------+----------------|
-| Pembelian Hadiah Lomba | Rp. 5.000.000  |
-| Terimakasih Pengajar   | Rp. 3.000.000  |
-| Pembelian Cindera Mata | Rp. 2.500.000  |
-| Konsumsi Perjalanan    | Rp. 4.700.000  |
-| Konsumsi Ikhtibar      | Rp. 2.000.000  |
-| Komsumsi Lomba         | Rp. 500.000    |
-| Sekretaris             | Rp. 300.000    |
-| Dokumentasi            | Rp. 500.000    |
-| Dekorasi               | Rp. 300.000    |
-| Dana cadangan          | Rp. 700.000    |
-| Total                  | Rp. 19.200.000 |
++------------------------+--------------+
+| Keterangan             | Jumlah Biaya |
++========================+==============+
+| Pembelian Hadiah Lomba | 5000000      |
++------------------------+--------------+
+| Terimakasih Pengajar   | 3000000      |
++------------------------+--------------+
+| Pembelian Cindera Mata | 2500000      |
++------------------------+--------------+
+| Konsumsi Ikhtibar      | 2000000      |
++------------------------+--------------+
+| Komsumsi Lomba         | 500000       |
++------------------------+--------------+
+| Sekretaris             | 300000       |
++------------------------+--------------+
+| Dokumentasi            | 500000       |
++------------------------+--------------+
+| Dekorasi               | 300000       |
++------------------------+--------------+
+| Dana cadangan          | 700000       |
++------------------------+--------------+
+| Total                  | 1.48e7       |
++------------------------+--------------+
+: {.striped .hover .bordered}
+
+<!--  tmf: $-1,2=Sum(1,2:-1,2)  -->
 
 #### Untuk Perayaan XX tahun
-| Keterangan             | Jumlah |
-|------------------------+--------|
-| Penceramah             |        |
-| Sewa Monitor/Videotron |        |
-| Lomba Eksternal        |        |
-| Tambahan Hadiah Lomba  |        |
-| Tambahan Khitan Masal  |        |
-| Tambahan Dekor         |        |
++------------------------+--------------+-----------+
+| Keterangan             | note         | Jumlah    |
++========================+==============+===========+
+| Penceramah             |              | 1500000   |
++------------------------+--------------+-----------+
+| Sewa Monitor/Videotron | uk 2.5 x 4 m | 4500000   |
++------------------------+--------------+-----------+
+| Festival XX Tahun MDTA |              |           |
++------------------------+--------------+-----------+
+| Tambahan Hadiah Lomba  |              |           |
++------------------------+--------------+-----------+
+| Tambahan Khitan Masal  |              |           |
++------------------------+--------------+-----------+
+| Tambahan Dekor         |              |           |
++------------------------+--------------+-----------+
+| Total                  |              | 6000000.0 |
++------------------------+--------------+-----------+
+: {.striped .hover .bordered}
+
+<!--  tmf: $-1,3=Sum(1,3:-1,3)  -->
+
+### Sumber-sumber Dana
++---------------+-----------+
+| Keterangan    | PJ        |
++===============+===========+
+| Fund Raising  | * Rama    |
+|               | * Fajar   |
++---------------+-----------+
+| Bank Sampah   | * Sulthan |
++---------------+-----------+
+| Koperasi MDTA | * Wulan   |
++---------------+-----------+
+: {.striped .hover .bordered}
 
 ### Hadroh
 * pastikan anak2 junior sudah mulai punya panggung (maulid mingguan, maulid bulanan, maulid dadakan)
