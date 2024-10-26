@@ -82,27 +82,27 @@ bismillahirrahmanirrahim, 20 tahun bukanlah waktu yang sebentar. 20 tahun mewaki
 : {.striped .hover .bordered}
 
 ### Susunan Pembimbing
-+---------------+-------------------+
-| Seksi         | Pembimbing        |
-+===============+===================+
-| Bendahara     | Bu Siti           |
-+---------------+-------------------+
-| Dokumentasi   | Pak Rijal         |
-+---------------+-------------------+
-| Humas         | Pak Agus Miyanto  |
-+---------------+-------------------+
-| Acara         | Bu Nervi          |
-+---------------+-------------------+
-| Sound         | Pak Agus Mutholib |
-+---------------+-------------------+
-| Dekorasi      | Pak Yitno         |
-+---------------+-------------------+
-| Perlengkapan  | Pak Kamdi         |
-+---------------+-------------------+
-| Konsumsi      | Bu Yeti           |
-+---------------+-------------------+
-| Penerima Tamu | Pak Yanto         |
-+---------------+-------------------+
++---------------+-------------------------+
+| Seksi         | Pembimbing              |
++===============+=========================+
+| Bendahara     | Bu Siti                 |
++---------------+-------------------------+
+| Dokumentasi   | Pak Rijal               |
++---------------+-------------------------+
+| Humas         | Pak Agus Miyanto        |
++---------------+-------------------------+
+| Acara         | Bu Nervi & Mbak Ainur   |
++---------------+-------------------------+
+| Sound         | Pak Agus Mutholib       |
++---------------+-------------------------+
+| Dekorasi      | Pak Yitno & Mas Khoiril |
++---------------+-------------------------+
+| Perlengkapan  | Pak Kamdi               |
++---------------+-------------------------+
+| Konsumsi      | Bu Yeti                 |
++---------------+-------------------------+
+| Penerima Tamu | Pak Yanto               |
++---------------+-------------------------+
 : {.striped .hover .bordered}
 
 ### Acara Puncak
