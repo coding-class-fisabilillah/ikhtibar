@@ -1,0 +1,91 @@
+project:
+  type: website
+
+website:
+  title: "Konsep Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
+  description: "Wadah Sosialisasi Segala hal terkait Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
+  navbar:
+    logo: img/Logo MDTA.png
+    search: true
+    #right:
+    #  - about.qmd
+    #  #- icon: github
+    #  #  href: https://github.com/SIBERPRO-OFFICIAL
+    #  - icon: twitter
+    #    href: https://twitter.com/siberpro
+    #  - icon: linkedin
+    #    href: https://linkedin.com/in/siberpro
+  sidebar:
+    style: floating
+    background: light
+    pinned: true
+    border: true
+    collapse-level: 0
+    contents:
+      - text: Pendahuluan
+        href: index.qmd
+      - text:
+      - section: "Personalia"
+        contents:
+          - personalia/personalia ikhtibar akbar 2 dekade.qmd
+      - section: "Tanggung Jawab - Proker - Konsep"
+        contents:
+          - konsep/ketua.qmd
+          - konsep/sekretaris.qmd
+          - konsep/bendahara.qmd
+          - konsep/humas.qmd
+          - konsep/dekorasi.qmd
+          - konsep/perlengkapan.qmd
+          - konsep/soundman.qmd
+          - konsep/dokumentasi.qmd
+          - konsep/konsumsi.qmd
+          - konsep/penerimaan tamu.qmd
+          - konsep/fund raising.qmd
+          - section: "Rangkaian Acara Ikhtibar"
+            contents:
+              - konsep/lomba santri.qmd
+              - konsep/khitan.qmd
+              - konsep/acara puncak.qmd
+              - konsep/lomba hadroh.qmd
+              - konsep/festival.qmd
+          - section: "Gebrakan"
+            contents:
+              - konsep/film MDTA.qmd
+
+      - section: "Laporan & Progress tiap Bagian"
+        contents: 
+          - progress/ketua.qmd
+          - progress/sekretaris.qmd
+          - progress/bendahara.qmd
+          - progress/humas.qmd
+          - progress/dekorasi.qmd
+          - progress/perlengkapan.qmd
+          - progress/soundman.qmd
+          - progress/dokumentasi.qmd
+          - progress/konsumsi.qmd
+          - progress/penerimaan tamu.qmd
+          - progress/fund raising.qmd
+          - section: "Rangkaian Acara Ikhtibar"
+            contents:
+              - progress/lomba santri.qmd
+              - progress/khitan.qmd
+              - progress/acara puncak.qmd
+              - progress/lomba hadroh.qmd
+              - progress/festival.qmd
+          - section: "Gebrakan"
+            contents:
+              - progress/film MDTA.qmd
+
+        
+  back-to-top-navigation: true
+  reader-mode: true
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    toc-depth: 4
+    toc-location: right
+    title-block-categories: false
+execute:
+  freeze: auto

@@ -1,0 +1,26 @@
+---
+title: Proker Perlengkapan
+description: idem
+date: 10/20/2024
+author: Team Ikhtibar Akbar 2 Dekade
+categories: [ikhtibar, mdta]
+draft: false
+show: true
+freeze: true
+---
+
+# Perlengkapan (Yoga Ananda)
+
+## Proker
+
+* Menyiapkan dan mengatur perlengkapan tiap bagian dalam kepanitiaan
+
+## Surat yang dibutuhkan
+
+## Perlengkapan yang dibutuhkan
+
+## Biaya yang dibutuhkan
+
+## Personalia (anggota bagian)
+
+----------

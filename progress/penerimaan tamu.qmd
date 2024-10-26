@@ -1,0 +1,10 @@
+---
+title: Progress Penerimaan Tamu
+description: idem
+date: 10/20/2024
+author: Team Ikhtibar Akbar 2 Dekade
+categories: [ikhtibar, mdta]
+draft: false
+show: true
+freeze: true
+---

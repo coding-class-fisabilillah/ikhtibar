@@ -1,0 +1,14 @@
+---
+title: Portal Informasi Ikhtibar Akbar 2 Dekade MDTA Fisabilillah
+date: 10/01/2024
+author: Team Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah
+categories: [landing page, webflow, website]
+draft: false
+show: true
+freeze: true
+title-block-categories: false
+---
+
+# Ikhtibar Akbar XX
+
+bismillahirrahmanirrahim, 20 tahun bukanlah waktu yang sebentar. 20 tahun mewakili keikhlasan, ketekunan dan kerja keras. 

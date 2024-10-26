@@ -1,0 +1,95 @@
+---
+title: personalia panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah
+description: dokumen internal untuk tracking seluruh progress ikhtibar
+date: 09/28/2024
+author: Sulthan A. Karimov
+categories: [ikhtibar, acara, mdta, tasyakuran XX]
+draft: false
+show: true
+freeze: true
+---
+
+# Susunan Panitia
++------------------------+--------------------+
+| Seksi                  | PJ                 |
++========================+====================+
+| Ketua Pelaksana        | Sulthan A. Karimov |
++------------------------+--------------------+
+| Sekretaris             | Ilham Saputra      |
++------------------------+--------------------+
+| Bendahara              | Bu Siti            |
++------------------------+--------------------+
+| Dokumentasi            | Falka              |
++------------------------+--------------------+
+| Humas                  | Shodiq             |
++------------------------+--------------------+
+| Acara                  | Anis               |
++------------------------+--------------------+
+| Sound                  | Al-Falah           |
++------------------------+--------------------+
+| Dekorasi               | Fajar              |
++------------------------+--------------------+
+| Perlengkapan           | Yoga               |
++------------------------+--------------------+
+| Konsumsi               | Shofie             |
++------------------------+--------------------+
+| Penerima Tamu          | Riana Dian         |
++------------------------+--------------------+
+: {.striped .hover .bordered}
+
+# Ketua Rangkaian Acara Ikhtibar Akbar 2 Dekade
++-----------------+--------------+
+| Acara           | Ketua        |
++=================+==============+
+| Lomba           | * Mbak Tista |
+|                 | * Mbak Wulan |
++-----------------+--------------+
+| Khitan          | Pak Ubay     |
++-----------------+--------------+
+| Lomba Hadroh    | Anis Lusiani |
++-----------------+--------------+
+| Festival Santri | * Mbak Anggi |
+|                 | * Mbak Tiwi  |
++-----------------+--------------+
+: {.striped .hover .bordered}
+
+# Susunan Pembimbing
++---------------+-----------------------------+
+| Seksi         | Pembimbing                  |
++===============+=============================+
+| Bendahara     | Ibu Siti Asmuni             |
++---------------+-----------------------------+
+| Dokumentasi   | Bapak Afrizal               |
++---------------+-----------------------------+
+| Humas         | Bapak Agus Miyanto          |
++---------------+-----------------------------+
+| Acara         | * Ibu Nervi Pradewi         |
+|               | * Mbak Ainur Rahmah Al-Amin |
++---------------+-----------------------------+
+| Sound         | Bapak Agus Mutholib         |
++---------------+-----------------------------+
+| Dekorasi      | * Bapak Suprayitno          |
+|               | * Mas Muhammad Khoiril      |
++---------------+-----------------------------+
+| Perlengkapan  | Bapak Sukamdi               |
++---------------+-----------------------------+
+| Konsumsi      | Ibu Nur Haryanti            |
++---------------+-----------------------------+
+| Penerima Tamu | Bapak Suyanto               |
++---------------+-----------------------------+
+: {.striped .hover .bordered}
+
+# Acara Puncak
++----------+---------------------+
+| Acara    | Nama                |
++==========+=====================+
+| Tausiyah | Ust. Muhammad Akrom |
++----------+---------------------+
+| MC       |                     |
++----------+---------------------+
+| Qori     |                     |
++----------+---------------------+
+| Khotimin |                     |
++----------+---------------------+
+: {.striped .hover .bordered}
+

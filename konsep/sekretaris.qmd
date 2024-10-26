@@ -1,0 +1,22 @@
+---
+title: Proker Sekretaris
+description: idem
+date: 10/20/2024
+author: Team Ikhtibar Akbar 2 Dekade
+categories: [ikhtibar, mdta]
+draft: false
+show: true
+freeze: true
+---
+
+# Sekretaris (M. Ilham Saputra)
+
+## Proker
+
+* Membuat Proposal Acara
+* Membuat semua surat yang dibutuhkan dalam kepanitiaan:
+  - Surat undangan Ikhtibar
+  - Surat pemberitahuan Ikhtibar kepada Wali Santri
+  - Surat permohonan untuk mengisi tausiah Ikhtibar
+
+----------
