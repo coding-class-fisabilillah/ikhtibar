@@ -28,6 +28,9 @@ website:
       - section: "Personalia"
         contents:
           - personalia/personalia ikhtibar akbar 2 dekade.qmd
+      - section: "Keuangan"
+        contents:
+          - keuangan/keuangan ikhtibar akbar 2 dekade.qmd
       - section: "Tanggung Jawab - Proker - Konsep"
         contents:
           - konsep/ketua.qmd
