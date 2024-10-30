@@ -1,0 +1,22 @@
+---
+title: Keuangan Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah
+description: paparan kondisi keuangan panitia ikhtibar akbar
+date: 10/30/2024
+author: Sulthan A. Karimov
+categories: [ikhtibar, mdta, 2 dekade]
+draft: false
+show: true
+freeze: true
+---
+
++------------------------+--------------------------------------+---------------+---------------+
+| Bagian                 | Rincian                              |         Harga |         Total |
++========================+======================================+==============:+==============:+
+| Dekorasi               | * Kebutuhan Dekorasi Acara Puncak    | Rp. 2.500.000 | Rp. 2.900.000 |
+|                        | * Dekorasi Festival dan Lomba Hadroh |   Rp. 400.000 |               |
++------------------------+--------------------------------------+---------------+---------------+
+| Film MDTA              | Kebutuhan Pembuatan Film             |   Rp. 400.000 |   Rp. 400.000 |
++------------------------+--------------------------------------+---------------+---------------+
+| Festival 2 Dekade MDTA | Hadiah - Konsumsi & Cinderamata Juri | Rp. 1.500.000 | Rp. 1.500.000 |
++------------------------+--------------------------------------+---------------+---------------+
+
