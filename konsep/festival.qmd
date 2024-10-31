@@ -13,15 +13,36 @@ freeze: true
 
 ## Proker
 
-* Mengumpulkan konsep seluruh acara pada Lomba Eksternal
-* Mengatur urutan acara dari awal hingga akhir
-* Mengatur jalannya acara pada hari H
-* Menjadi time keeper pada hari H
-* Bekerja sama dengan Humas dalam mengurus pendaftaran peserta acara
+- Mengajukan jenis lomba untuk lomba eksternal
+- Menentukan persyaratan perlombaan
+- Menyediakan tempat untuk perlombaan
+- Menyiapkan hadiah untuk pemenang lomba eksternal
+- Mengatur urutan acara dari awal hingga akhir
+- Mengatur jalannya acara pada hari H
+- Menjadi time keeper pada hari H
+- Bekerja sama dengan HUMAS dalam mengurus persebaran informasi perlombaan, pendaftaran, dan kesediaan juri
+- Bekerja sama dengan PENERIMA TAMU dalam mengurus pendaftaran ulang
+- Bekerja sama dengan ACARA dalam memandu acara pembukaan, sambutan, pembagian hadiah, penutupan
 
 ## Surat yang dibutuhkan
 
+- Surat pemberitahuan ke Masjid dan RW dilampirkan jenis lomba dan syarat ketentuannya
+
 ## Perlengkapan yang dibutuhkan
+
+- Kertas gambar
+- Meja juri
+- Mic + sound
+- Lembar Penilaian
+- Map
+- Pulpen
+- Gulungan kertas surat atau ayat
+- Label besar untuk nama peserta
 
 ## Biaya yang dibutuhkan
 
++--------------------------------------+----------------+
+| keterangan                           |          total |
++======================================+===============:+
+| hadiah, makan juri, cinderamata juri | *Rp 1.500.000* |
++--------------------------------------+----------------+

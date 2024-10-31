@@ -33,17 +33,19 @@ website:
           - keuangan/keuangan ikhtibar akbar 2 dekade.qmd
       - section: "Tanggung Jawab - Proker - Konsep"
         contents:
-          - konsep/ketua.qmd
-          - konsep/sekretaris.qmd
-          - konsep/bendahara.qmd
-          - konsep/humas.qmd
-          - konsep/dekorasi.qmd
-          - konsep/perlengkapan.qmd
-          - konsep/soundman.qmd
-          - konsep/dokumentasi.qmd
-          - konsep/konsumsi.qmd
-          - konsep/penerimaan tamu.qmd
-          - konsep/fund raising.qmd
+          - href: konsep/konsep.qmd
+            text: "Proker Panitia"
+#          - konsep/ketua.qmd
+#          - konsep/sekretaris.qmd
+#          - konsep/bendahara.qmd
+#          - konsep/humas.qmd
+#          - konsep/dekorasi.qmd
+#          - konsep/perlengkapan.qmd
+#          - konsep/soundman.qmd
+#          - konsep/dokumentasi.qmd
+#          - konsep/konsumsi.qmd
+#          - konsep/penerimaan tamu.qmd
+#          - konsep/fund raising.qmd
           - section: "Rangkaian Acara Ikhtibar"
             contents:
               - konsep/lomba santri.qmd
@@ -57,17 +59,19 @@ website:
 
       - section: "Laporan & Progress tiap Bagian"
         contents: 
-          - progress/ketua.qmd
-          - progress/sekretaris.qmd
-          - progress/bendahara.qmd
-          - progress/humas.qmd
-          - progress/dekorasi.qmd
-          - progress/perlengkapan.qmd
-          - progress/soundman.qmd
-          - progress/dokumentasi.qmd
-          - progress/konsumsi.qmd
-          - progress/penerimaan tamu.qmd
-          - progress/fund raising.qmd
+          - href: progress/progress.qmd
+            text: "Progress Kerja Panitia"
+          #- progress/ketua.qmd
+          #- progress/sekretaris.qmd
+          #- progress/bendahara.qmd
+          #- progress/humas.qmd
+          #- progress/dekorasi.qmd
+          #- progress/perlengkapan.qmd
+          #- progress/soundman.qmd
+          #- progress/dokumentasi.qmd
+          #- progress/konsumsi.qmd
+          #- progress/penerimaan tamu.qmd
+          #- progress/fund raising.qmd
           - section: "Rangkaian Acara Ikhtibar"
             contents:
               - progress/lomba santri.qmd

@@ -1,0 +1,55 @@
+---
+title: Progress Kerja Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah
+description: idem
+date: 10/20/2024
+author: Team Ikhtibar Akbar 2 Dekade
+categories: [ikhtibar, mdta]
+draft: false
+show: true
+freeze: true
+---
+
+```{mermaid} 
+gantt
+  dateFormat  YYYY-MM-DD
+  title       Diagram Kerja Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah
+
+  section Umum
+  susunan panitia	:done, 2024-10-28, 1h
+  rincian anggaran	:done, 2024-10-28, 1h
+  susunan acara	:active, 2024-11-01, 1d
+  tentukan tanggal acara	:active, 2024-10-31, 1d
+
+  section Film Napak Tilas MDTA
+  list narasumber	:done, 2024-10-31, 1d
+  buat clipper (yoga)	:active, 2024-11-01, 1d
+  scan photo lama	:active, 2024-10-31, 7d
+  siapkan pertanyaan	:active, 2024-10-31, 7d
+  siapkan surat untuk narasumber	:surat, 2024-10-31, 5d
+  kirim surat ke narsum :kirim, after surat, 4d
+  take narsum - 1 :narsum1, after kirim, 2h
+  take narsum - 2 :narsum2, after narsum1, 2h
+  take narsum - 3 :narsum3, after narsum2, 2h
+  take narsum - 4 :narsum4, after narsum3, 2h
+  take narsum - 5 :narsum5, after narsum4, 2h
+  take narsum - 6 :narsum6, after narsum5, 2h
+  take narsum - 7 :narsum7, after narsum6, 2h
+  take narsum - 8 :narsum8, after narsum7, 2h
+  take narsum - 9 :narsum9, after narsum8, 2h
+  take narsum - 10 :narsum10, after narsum9, 2h
+  take narsum - 11 :narsum11, after narsum10, 2h
+  take narsum - 12 :narsum12, after narsum11, 2h
+  take narsum - 13 :narsum13, after narsum12, 2h
+  take narsum - 14 :narsum14, after narsum13, 2h
+
+  section Dekorasi
+  buat struktur backdrop 3D di blender	:dekor1, 2024-10-31, 3d
+  tambahkan trawangan dan detail lain ke backdrop	:dekor2, after dekor1, 1d
+  tambahkan lighting ke backdrop	:dekor3, after dekor2, 1d
+  buat design 3D panggung musholla dan kontrakan :dekor4, after dekor3, 3d
+  buat design backdrop untuk lomba hadroh dan festival dan lomba internal (buat satu untuk semua)	:dekor5, after dekor4, 5d
+  buat design photo booth	:dekor6, after dekor5, 5d
+
+
+
+```
