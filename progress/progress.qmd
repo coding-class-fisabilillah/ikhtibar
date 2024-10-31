@@ -9,10 +9,18 @@ show: true
 freeze: true
 ---
 
+::: {.mermaid_container}
 ```{mermaid} 
 gantt
   dateFormat  YYYY-MM-DD
+  axisFormat  %m-%d
+  tickInterval 1week
   title       Diagram Kerja Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah
+
+  Pembentukan Panitia : milestone, bentuk, 2024-10-10, 2h
+  Khitan Massal : milestone, khitan, 2024-10-31, 5h
+  Lomba Hadroh & Festival : milestone, hadroh, 2024-10-31, 5h
+  Acara Puncak Ikhtibar Akbar : milestone, ikhtibar, 2025-02-17, 5h
 
   section Umum
   susunan panitia	:done, 2024-10-28, 1h
@@ -41,6 +49,10 @@ gantt
   take narsum - 12 :narsum12, after narsum11, 2h
   take narsum - 13 :narsum13, after narsum12, 2h
   take narsum - 14 :narsum14, after narsum13, 2h
+  footage selection :select, after narsum14, 7d
+  compilation process :compile, after select, 7d
+  compositing :compose, after compile, 7d
+  sound design :sound, after compile, 7d
 
   section Dekorasi
   buat struktur backdrop 3D di blender	:dekor1, 2024-10-31, 3d
@@ -53,3 +65,4 @@ gantt
 
 
 ```
+:::
