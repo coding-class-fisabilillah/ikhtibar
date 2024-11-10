@@ -17,16 +17,69 @@ gantt
   tickInterval 1week
   title       Diagram Kerja Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah
 
-  Pembentukan Panitia : milestone, bentuk, 2024-10-10, 2h
-  Khitan Massal : milestone, khitan, 2024-10-31, 5h
-  Lomba Hadroh & Festival : milestone, hadroh, 2024-10-31, 5h
-  Acara Puncak Ikhtibar Akbar : milestone, ikhtibar, 2025-02-17, 5h
+  Pembentukan Panitia : done, bentuk, 2024-10-10, 2h
+  Khitan Massal : milestone, khitan, 2025-01-27, 5h
+  Lomba Hadroh & Festival : milestone, hadroh, 2025-02-01, 5h
+  Acara Puncak Ikhtibar Akbar : milestone, ikhtibar, 2025-02-15, 5h
 
   section Umum
   susunan panitia	:done, 2024-10-28, 1h
   rincian anggaran	:done, 2024-10-28, 1h
-  susunan acara	:active, 2024-11-01, 1d
-  tentukan tanggal acara	:active, 2024-10-31, 1d
+  tentukan tanggal acara	:done, 2024-11-05, 1d
+
+  section Lomba
+  fixing jenis lomba :jenis, 2024-11-11, 1w
+  buat kelompok lomba :kelompok, after jenis, 1w
+  persiapan soal lomba :soal, 2024-11-11, until khitan
+
+  section Sekretaris
+  buat surat pemberitahuan wali santri :pemberitahuan, 2024-11-11, 3d
+  buat surat penceramah :penceramah, after pemberitahuan, 1d
+  lengkapi proposal :proposal, after penceramah, 1w
+  buat surat undangan :undangan, after proposal, 3d
+  print daftar kelompok lomba :daftarkelompok, after kelompok, 3d
+  print daftar syarat wajib lomba :daftarwajib, after kelompok, 3d
+
+  section Humas
+  distribusi surat pemberitahuan :dispemberitahuan, after pemberitahuan, 1w
+  kirim surat penceramah :dispenceramah, after penceramah, 1w
+  distribusi surat undangan :undangan, 2025-02-1, 1w
+
+  section Acara Puncak
+  susunan acara	:active, 2024-11-11, 10d
+  penentuan petugas acara :petugas, 2024-11-10, 1d
+  latihan MC Hadroh, MC Acara, Penampilan, Khataman :active, after petugas, 2025-01-27
+
+  section Dekorasi
+  buat struktur backdrop 3D di blender	:dekor1, 2024-11-11, 3d
+  buat design trawangan dan detail :dekor2, after dekor1, 4d
+  buat design lighting ke backdrop	:dekor3, after dekor2, 4d
+  buat design photo booth	:dekor4, after dekor3, 5d
+
+  section Perlengkapan
+  pemasangan tenda lomba hadroh :tenda, 2025-01-28, 1d
+  persiapan kursi lomba hadroh :kursi, 2025-01-28, 1d
+  pembersihan lomba hadroh
+  persiapan perlengkapan acara puncak
+
+  section Dekorasi & Perlengkapan
+  beli bahan dekor :beli, 2024-12-10, 3d
+  buat struktur backdrop :struktur, after beli, 2w
+  buat trawangan backdrop :trawangan, after struktur, 3w
+  test backdrop :test, after trawangan, 2d
+
+  section Soundman
+
+  section Konsumsi
+
+  section Penerimaan Tamu
+
+```
+:::
+
+  <!--
+  buat design 3D panggung musholla dan kontrakan :dekor4, after dekor3, 4d
+  buat design backdrop untuk lomba hadroh dan festival dan lomba internal (buat satu untuk semua)	:dekor5, after dekor4, 5d
 
   section Film Napak Tilas MDTA
   list narasumber	:done, 2024-10-31, 1d
@@ -53,16 +106,4 @@ gantt
   compilation process :compile, after select, 7d
   compositing :compose, after compile, 7d
   sound design :sound, after compile, 7d
-
-  section Dekorasi
-  buat struktur backdrop 3D di blender	:dekor1, 2024-10-31, 3d
-  tambahkan trawangan dan detail lain ke backdrop	:dekor2, after dekor1, 1d
-  tambahkan lighting ke backdrop	:dekor3, after dekor2, 1d
-  buat design 3D panggung musholla dan kontrakan :dekor4, after dekor3, 3d
-  buat design backdrop untuk lomba hadroh dan festival dan lomba internal (buat satu untuk semua)	:dekor5, after dekor4, 5d
-  buat design photo booth	:dekor6, after dekor5, 5d
-
-
-
-```
-:::
+  -->
