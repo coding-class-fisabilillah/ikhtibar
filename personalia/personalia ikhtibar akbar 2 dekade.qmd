@@ -51,7 +51,7 @@ freeze: true
 |                    | * Cania Zahra            |
 |                    | * Siska Puspita Sari     |
 |                    | * Gracia Oktaviani       |
-|                    | * Zahra Celina Palupi    |
+|                    | * Naziva Qurratu 'Ainy   |
 +--------------------+--------------------------+
 | PJ Penerimaan Tamu | * Riana Dian Anggraini   |
 |                    | * Shofia Aulitza Habibah |
@@ -66,19 +66,18 @@ freeze: true
 : {.striped .hover .bordered}
 
 # Ketua Rangkaian Acara Ikhtibar Akbar 2 Dekade
-+-----------------+-----------------------------+
-| Acara           | Nama                        |
-+=================+=============================+
-| Lomba Santri    | * Ibu Otista Capri Hastanti |
-|                 | * Mba Suci Wulandari        |
-+-----------------+-----------------------------+
-| Khitan Massal   | * Al-Ustadz Ubaydilah Nur   |
-+-----------------+-----------------------------+
-| Festival Santri | * Alvina Anggraini          |
-|                 | * Aulia Rahmi Pratiwi       |
-+-----------------+-----------------------------+
-| Lomba Hadroh    | * Anis Lusiani              |
-+-----------------+-----------------------------+
++---------------+-----------------------------+
+| Acara         | Nama                        |
++===============+=============================+
+| Lomba Santri  | * Ibu Otista Capri Hastanti |
+|               | * Mba Suci Wulandari        |
++---------------+-----------------------------+
+| Khitan Massal | * Al-Ustadz Ubaydilah Nur   |
++---------------+-----------------------------+
+| Lomba Hadroh  | * Anis Lusiani              |
+|               | * Alvina Anggraini          |
+|               | * Aulia Rahmi Pratiwi       |
++---------------+-----------------------------+
 : {.striped .hover .bordered}
 
 # Susunan Pembimbing

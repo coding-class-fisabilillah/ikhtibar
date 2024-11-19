@@ -88,6 +88,8 @@ website:
   reader-mode: true
 format:
   html:
+    grid:
+      body-width: 1600px
     theme: sandstone
     css: styles.css
     toc: true
