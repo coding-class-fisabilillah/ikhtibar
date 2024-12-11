@@ -10,59 +10,59 @@ freeze: true
 ---
 
 # Susunan Panitia
-+--------------------+--------------------------+
-| Bagian             | Nama                     |
-+====================+==========================+
-| Ketua Pelaksana    | * Sulthan A. Karimov     |
-+--------------------+--------------------------+
-| Sekretaris         | * M. Ilham Saputra       |
-+--------------------+--------------------------+
-| Bendahara          | * Ibu Siti Asmuni        |
-+--------------------+--------------------------+
-| PJ Dokumentasi     | * Falka Derizqia         |
-|                    | * Khaira Salistya Putri  |
-+--------------------+--------------------------+
-| PJ Humas           | * Ahmad Nur Shodiq       |
-|                    | * Maulana Yusuf          |
-|                    | * M. Rizky               |
-|                    | * M. Rafael Ilham        |
-|                    | * Zahra Celina Palupi    |
-|                    | * Reisya Sabilla         |
-+--------------------+--------------------------+
-| PJ Acara           | * Khaira Salistya Putri  |
-|                    | * Alifiya Zafira         |
-|                    | * Najwa Aulia Putri      |
-+--------------------+--------------------------+
-| PJ Perlengkapan    | * Yoga Ananda            |
-|                    | * Junior Sakti           |
-|                    | * Dhafi Fajar            |
-|                    | * Muhammad               |
-|                    | * Habib Muhammad         |
-+--------------------+--------------------------+
-| PJ Sound           | * M. Alfalah Rizky       |
-+--------------------+--------------------------+
-| PJ Dekorasi        | * Fajar Mahesa Pratama   |
-|                    | * Ilham Setiawan         |
-|                    | * Rafa Januari           |
-|                    | * M. Akbar Faizal        |
-+--------------------+--------------------------+
-| PJ Konsumsi        | * Shofie Sintya Putri    |
-|                    | * Ihsanaurel R.A         |
-|                    | * Cania Zahra            |
-|                    | * Siska Puspita Sari     |
-|                    | * Gracia Oktaviani       |
-|                    | * Naziva Qurratu 'Ainy   |
-+--------------------+--------------------------+
-| PJ Penerimaan Tamu | * Riana Dian Anggraini   |
-|                    | * Shofia Aulitza Habibah |
-|                    | * Chika Rahmawati        |
-|                    | * Anggun Mutiara         |
-|                    | * Saskia Ainun           |
-|                    | * Greyliyan Cinta Savara |
-+--------------------+--------------------------+
-| PJ Fund Raising    | * Rama                   |
-|                    | * Fajar Arifin           |
-+--------------------+--------------------------+
++--------------------+-----------------------------+
+| Bagian             | Nama                        |
++====================+=============================+
+| Ketua Pelaksana    | * Sulthan A. Karimov        |
++--------------------+-----------------------------+
+| Sekretaris         | * M. Ilham Saputra          |
++--------------------+-----------------------------+
+| Bendahara          | * Ibu Siti Asmuni           |
++--------------------+-----------------------------+
+| PJ Dokumentasi     | * Falka Derizqia            |
+|                    | * Muhammad Agung Taqiyuddin |
++--------------------+-----------------------------+
+| PJ Humas           | * Ahmad Nur Shodiq          |
+|                    | * Maulana Yusuf             |
+|                    | * M. Rizky                  |
+|                    | * M. Rafael Ilham           |
+|                    | * Zahra Celina Palupi       |
+|                    | * Reisya Sabilla            |
++--------------------+-----------------------------+
+| PJ Acara           | * Khaira Salistya Putri     |
+|                    | * Alifiya Zafira            |
+|                    | * Najwa Aulia Putri         |
++--------------------+-----------------------------+
+| PJ Perlengkapan    | * Yoga Ananda               |
+|                    | * Junior Sakti              |
+|                    | * Dhafi Fajar               |
+|                    | * Muhammad                  |
+|                    | * Habib Muhammad            |
++--------------------+-----------------------------+
+| PJ Sound           | * M. Alfalah Rizky          |
++--------------------+-----------------------------+
+| PJ Dekorasi        | * Fajar Mahesa Pratama      |
+|                    | * Ilham Setiawan            |
+|                    | * Rafa Januari              |
+|                    | * M. Akbar Faizal           |
++--------------------+-----------------------------+
+| PJ Konsumsi        | * Shofie Sintya Putri       |
+|                    | * Ihsanaurel R.A            |
+|                    | * Cania Zahra               |
+|                    | * Siska Puspita Sari        |
+|                    | * Gracia Oktaviani          |
+|                    | * Naziva Qurratu 'Ainy      |
++--------------------+-----------------------------+
+| PJ Penerimaan Tamu | * Riana Dian Anggraini      |
+|                    | * Shofia Aulitza Habibah    |
+|                    | * Chika Rahmawati           |
+|                    | * Anggun Mutiara            |
+|                    | * Saskia Ainun              |
+|                    | * Greyliyan Cinta Savara    |
++--------------------+-----------------------------+
+| PJ Fund Raising    | * Rama                      |
+|                    | * Fajar Arifin              |
++--------------------+-----------------------------+
 : {.striped .hover .bordered}
 
 # Ketua Rangkaian Acara Ikhtibar Akbar 2 Dekade
@@ -76,7 +76,6 @@ freeze: true
 +---------------+-----------------------------+
 | Lomba Hadroh  | * Anis Lusiani              |
 |               | * Alvina Anggraini          |
-|               | * Aulia Rahmi Pratiwi       |
 +---------------+-----------------------------+
 : {.striped .hover .bordered}
 
@@ -92,6 +91,7 @@ freeze: true
 +---------------+-----------------------------+
 | Acara         | * Ibu Nervi Pradewi         |
 |               | * Mbak Ainur Rahmah Al-Amin |
+|               | * Aulia Rahmi Pratiwi       |
 +---------------+-----------------------------+
 | Sound         | * Bapak Agus Mutholib       |
 +---------------+-----------------------------+
@@ -104,31 +104,5 @@ freeze: true
 +---------------+-----------------------------+
 | Penerima Tamu | * Bapak Suyanto             |
 +---------------+-----------------------------+
-: {.striped .hover .bordered}
-
-# Petugas Lomba Hadroh dan Festival 2 Dekade MDTA Fisabilillah
-+-----------------+------+
-| Acara           | Nama |
-+=================+======+
-| MC Pembukaan    |      |
-+-----------------+------+
-| MC Lomba Hadroh |      |
-+-----------------+------+
-| Qori            |      |
-+-----------------+------+
-: {.striped .hover .bordered}
-
-# Petugas Acara Puncak
-+----------+---------------------+
-| Acara    | Nama                |
-+==========+=====================+
-| Tausiyah | Ust. Muhammad Akrom |
-+----------+---------------------+
-| MC       |                     |
-+----------+---------------------+
-| Qori     |                     |
-+----------+---------------------+
-| Khotimin |                     |
-+----------+---------------------+
 : {.striped .hover .bordered}
 

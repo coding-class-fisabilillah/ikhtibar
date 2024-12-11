@@ -11,6 +11,8 @@ freeze: true
 
 ::: {.mermaid_container}
 ```{mermaid} 
+%%| fig-responsive: false
+%%| fig-width: 20
 gantt
   dateFormat  YYYY-MM-DD
   axisFormat  %m-%d
