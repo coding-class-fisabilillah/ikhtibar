@@ -83,3 +83,7 @@ freeze: true
 | Penampilan MDTA II/III |                                    |             |
 +------------------------+------------------------------------+-------------+
 : {.striped .hover .bordered}
+
+## Konsep Dekorasi Acara Puncak
+
+![draft dekorasi acara puncak](./dekor12112024_1.png)
