@@ -23,4 +23,9 @@ freeze: true
 
 ## Personalia (anggota bagian)
 
+* Junior Sakti 
+* Dhafi Fajar 
+* Muhammad 
+* Habib Muhammad
+
 ----------

@@ -31,9 +31,10 @@ freeze: true
 
 ## Personalia (anggota bagian)
 
-* Cania
-* Chika 
-* Anggun
-* Alifya
+* Shofia Aulitza Habibah
+* Chika Rahmawati
+* Anggun Mutiara
+* Saskia Ainun
+* Greyliyan Cinta Savara
 
 ----------

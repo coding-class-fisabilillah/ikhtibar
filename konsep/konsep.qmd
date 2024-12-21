@@ -16,14 +16,14 @@ freeze: true
 # Konsep Lomba Hadroh
 
 ## Petugas Lomba Hadroh
-+-----------------+---------------------+-------------+
-| Acara           | Nama                | Pembimbing  |
-+=================+=====================+=============+
-| MC Lomba Hadroh | * M. Ilham Setiawan | Pak Ubay    |
-|                 | * M. Fajar Mahesa   |             |
-+-----------------+---------------------+-------------+
-| Qori            |                     | Pak Sulthan |
-+-----------------+---------------------+-------------+
++-----------------+------------------+-------------+
+| Acara           | Nama             | Pembimbing  |
++=================+==================+=============+
+| MC Lomba Hadroh | * Ilham Setiawan | Pak Ubay    |
+|                 | * Fajar Mahesa   |             |
++-----------------+------------------+-------------+
+| Qori            |                  | Pak Sulthan |
++-----------------+------------------+-------------+
 : {.striped .hover .bordered}
 
 ## Rundown Lomba Hadroh
@@ -55,8 +55,8 @@ freeze: true
 +---------------------------------+---------------------+-------------+
 | Tugas                           | Nama                | Pembimbing  |
 +=================================+=====================+=============+
-| MC Pembagian Hadiah juara 2 & 3 | * M. Ilham Setiawan | Pak Ubay    |
-|                                 | * M. Fajar Mahesa   |             |
+| MC Pembagian Hadiah juara 2 & 3 | * Ilham Setiawan    | Pak Ubay    |
+|                                 | * Fajar Mahesa      |             |
 +---------------------------------+---------------------+-------------+
 | Khotimin                        | * M. Ilham Saputra  |             |
 |                                 | * Ahmad Nur Shodiq  |             |

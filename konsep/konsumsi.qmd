@@ -31,8 +31,11 @@ freeze: true
 
 ## Personalia (anggota bagian)
 
-* Cania 
-* Chika 
-* Cinta 
-
+ * Shofie Sintya Putri
+ * Ikhsanaurel R.A
+ * Cania Zahra
+ * Siska Puspita Sari
+ * Gracia Oktaviani
+ * Naziva Qurratu ‘Ainy
+ 
 ----------

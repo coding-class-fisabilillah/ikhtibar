@@ -19,10 +19,21 @@ freeze: true
 
 ## Surat yang dibutuhkan
 
+* Surat alumni 
+* Surat untuk ketua MDTA 
+* Surat untuk 3 santri yang masih aktif mengaji
+* Surat pengurus MDTA
+
 ## Perlengkapan yang dibutuhkan
 
 ## Biaya yang dibutuhkan
 
 ## Personalia (anggota bagian)
+
+* Maulana Yusuf
+* M. Rizky
+* M. Rafael Ilham
+* Zahra Celina Palupi
+* Reisya Sabilla
 
 ----------
