@@ -35,29 +35,29 @@ website:
         contents:
           - href: konsep/proker.qmd
             text: "Proker Panitia"
-#          - konsep/ketua.qmd
-#          - konsep/sekretaris.qmd
-#          - konsep/bendahara.qmd
-#          - konsep/humas.qmd
-#          - konsep/dekorasi.qmd
-#          - konsep/perlengkapan.qmd
-#          - konsep/soundman.qmd
-#          - konsep/dokumentasi.qmd
-#          - konsep/konsumsi.qmd
-#          - konsep/penerimaan tamu.qmd
-#          - konsep/fund raising.qmd
+          - konsep/ketua.qmd
+          - konsep/sekretaris.qmd
+          - konsep/bendahara.qmd
+          - konsep/humas.qmd
+          - konsep/dekorasi.qmd
+          - konsep/perlengkapan.qmd
+          - konsep/soundman.qmd
+          - konsep/dokumentasi.qmd
+          - konsep/konsumsi.qmd
+          - konsep/penerimaan tamu.qmd
+          - konsep/fund raising.qmd
           - href: konsep/konsep.qmd
             text: "Konsep Acara-acara Ikhtibar XX"
-#          - section: "Rangkaian Acara Ikhtibar"
-#            contents:
-#              - konsep/lomba santri.qmd
-#              - konsep/khitan.qmd
-#              - konsep/acara puncak.qmd
-#              - konsep/lomba hadroh.qmd
-#              - konsep/festival.qmd
-#          - section: "Gebrakan"
-#            contents:
-#              - konsep/film MDTA.qmd
+          - section: "Rangkaian Acara Ikhtibar"
+            contents:
+              - konsep/lomba santri.qmd
+              - konsep/khitan.qmd
+              - konsep/acara puncak.qmd
+              - konsep/lomba hadroh.qmd
+              - konsep/festival.qmd
+          - section: "Gebrakan"
+            contents:
+              - konsep/film MDTA.qmd
 
       - section: "Laporan & Progress tiap Bagian"
         contents: 
