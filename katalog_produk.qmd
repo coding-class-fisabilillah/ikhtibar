@@ -1,0 +1,33 @@
+---
+title: Katalog Produk Dua Puluh Tahun MDTA
+date: 01/14/2025
+author: Team Ikhtibar Akbar Dua Dekade
+categories:
+  - categories
+draft: false
+show: true
+sidebar: false
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.39.jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.38 (1).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.39.jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.40 (1).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.40.jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.41 (1).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.41 (2).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.41.jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.42 (1).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.42 (2).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.42.jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.43.jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.39 (1).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-12 at 11.18.39 (2).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-14 at 13.48.27 (1).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-14 at 13.48.27 (2).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-14 at 13.48.27 (3).jpeg)
+![](./katalog_img/WhatsApp Image 2025-01-14 at 13.48.27.jpeg)

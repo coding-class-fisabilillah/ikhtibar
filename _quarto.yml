@@ -5,7 +5,7 @@ website:
   title: "Konsep Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
   description: "Wadah Sosialisasi Segala hal terkait Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
   navbar:
-    logo: img/Logo MDTA.png
+    logo: Logo_MDTA.png
     search: true
     #right:
     #  - about.qmd
@@ -63,6 +63,11 @@ website:
         contents: 
           - href: progress/progress.qmd
             text: "Progress Kerja Panitia"
+
+      - section: "Lain-lain"
+        contents:
+          - href: katalog_produk.qmd
+            text: "Katalog Produk 2 Dekade MDTA"
           #- progress/ketua.qmd
           #- progress/sekretaris.qmd
           #- progress/bendahara.qmd
