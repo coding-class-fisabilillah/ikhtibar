@@ -1,54 +1,22 @@
 [
   {
-    "objectID": "progress/lomba hadroh.html",
-    "href": "progress/lomba hadroh.html",
-    "title": "Progress Lomba Hadroh",
+    "objectID": "script_napak_tilas.html",
+    "href": "script_napak_tilas.html",
+    "title": "Script Film Napak Tilas Ikhtibar Akbar XX Tahun MDTA Fisabilillah",
     "section": "",
-    "text": "Back to top"
+    "text": "Description\nTime\nNarration\nVisuals\nSound\n\n\n\n\nOpening\n3 Sec\n\n20\n\nFading Text with Black Background\nketika video mulai musik mulai dari bawah, kemudian naik seiring berjalannya video\n\n\nNarasi\n1 Min"
   },
   {
-    "objectID": "progress/fund raising.html",
-    "href": "progress/fund raising.html",
-    "title": "Progress Fund Raising",
+    "objectID": "script_napak_tilas.html#kompilasi-video-napak-tilas",
+    "href": "script_napak_tilas.html#kompilasi-video-napak-tilas",
+    "title": "Script Film Napak Tilas Ikhtibar Akbar XX Tahun MDTA Fisabilillah",
     "section": "",
-    "text": "Back to top"
+    "text": "Description\nTime\nNarration\nVisuals\nSound\n\n\n\n\nOpening\n3 Sec\n\n20\n\nFading Text with Black Background\nketika video mulai musik mulai dari bawah, kemudian naik seiring berjalannya video\n\n\nNarasi\n1 Min"
   },
   {
-    "objectID": "progress/konsumsi.html",
-    "href": "progress/konsumsi.html",
-    "title": "Progress Konsumsi",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "progress/soundman.html",
-    "href": "progress/soundman.html",
-    "title": "Progress Sound",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "progress/perimaan tamu.html",
-    "href": "progress/perimaan tamu.html",
-    "title": "Progress Penerimaan Tamu",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "progress/progress.html",
-    "href": "progress/progress.html",
-    "title": "Progress Kerja Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah",
-    "section": "",
-    "text": "gantt\n  dateFormat  YYYY-MM-DD\n  axisFormat  %m-%d\n  tickInterval 1week\n  title       Diagram Kerja Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah\n\n  Pembentukan Panitia : done, bentuk, 2024-10-10, 2h\n  Khitan Massal : milestone, khitan, 2025-01-27, 5h\n  Lomba Hadroh & Festival : milestone, hadroh, 2025-02-01, 5h\n  Acara Puncak Ikhtibar Akbar : milestone, ikhtibar, 2025-02-15, 5h\n\n  section Umum\n  susunan panitia   :done, 2024-10-28, 1h\n  rincian anggaran  :done, 2024-10-28, 1h\n  tentukan tanggal acara    :done, 2024-11-05, 1d\n\n  section serempak\n  pembersihan lomba hadroh :pembersihanhadroh, after khitan, 1d\n  pembersihan acara puncak :pembersihanpuncak, after ikhtibar, 1d\n\n  section Lomba\n  fixing jenis lomba :jenis, 2024-11-11, 1w\n  buat kelompok lomba :kelompok, after jenis, 1w\n  persiapan soal lomba :soal, 2024-11-11, until khitan\n\n  section Sekretaris\n  buat surat pemberitahuan wali santri :pemberitahuan, 2024-11-11, 3d\n  buat surat penceramah :penceramah, after pemberitahuan, 1d\n  lengkapi proposal :proposal, after penceramah, 1w\n  buat surat undangan :undangan, after proposal, 3d\n  print daftar kelompok lomba :daftarkelompok, after kelompok, 3d\n  print daftar syarat wajib lomba :daftarwajib, after kelompok, 3d\n\n  section Humas\n  distribusi surat pemberitahuan :dispemberitahuan, after pemberitahuan, 1w\n  kirim surat penceramah :dispenceramah, after penceramah, 1w\n  distribusi surat undangan :undangan, 2025-02-1, 1w\n\n  section Acara Puncak\n  susunan acara :active, 2024-11-11, 10d\n  penentuan petugas acara :petugas, 2024-11-10, 1d\n  latihan MC Hadroh, MC Acara, Penampilan, Khataman :active, after petugas, 2025-01-27\n\n  section Dekorasi\n  buat struktur backdrop 3D di blender  :dekor1, 2024-11-11, 3d\n  buat design trawangan dan detail :dekor2, after dekor1, 4d\n  buat design lighting ke backdrop  :dekor3, after dekor2, 4d\n  buat design photo booth   :dekor4, after dekor3, 5d\n\n  section Perlengkapan\n  pemasangan tenda lomba hadroh :tenda, 2025-01-28, 1d\n  persiapan kursi lomba hadroh :kursi, 2025-01-28, 1d\n  persiapan perlengkapan acara puncak :1d\n\n  section Dekorasi & Perlengkapan\n  beli bahan dekor :beli, 2024-12-10, 3d\n  buat struktur backdrop :struktur, after beli, 2w\n  buat trawangan backdrop :trawangan, after struktur, 3w\n  test backdrop :test, after trawangan, 2d\n\n  section Soundman\n\n  section Konsumsi\n\n  section Penerimaan Tamu\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Laporan & Progress tiap Bagian",
-      "Progress Kerja Panitia"
-    ]
-  },
-  {
-    "objectID": "progress/penerimaan tamu.html",
-    "href": "progress/penerimaan tamu.html",
-    "title": "Progress Penerimaan Tamu",
+    "objectID": "progress/dokumentasi.html",
+    "href": "progress/dokumentasi.html",
+    "title": "Progress Dokumentasi",
     "section": "",
     "text": "Back to top"
   },
@@ -60,9 +28,30 @@
     "text": "Back to top"
   },
   {
-    "objectID": "progress/bendahara.html",
-    "href": "progress/bendahara.html",
-    "title": "Progress Bendahara",
+    "objectID": "progress/perlengkapan.html",
+    "href": "progress/perlengkapan.html",
+    "title": "Progress Perlengkapan",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "progress/humas.html",
+    "href": "progress/humas.html",
+    "title": "Progress Humas",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "progress/penerimaan tamu.html",
+    "href": "progress/penerimaan tamu.html",
+    "title": "Progress Penerimaan Tamu",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "progress/lomba santri.html",
+    "href": "progress/lomba santri.html",
+    "title": "Progress Lomba Santri",
     "section": "",
     "text": "Back to top"
   },
@@ -74,14 +63,88 @@
     "text": "Back to top"
   },
   {
-    "objectID": "personalia/personalia ikhtibar akbar 2 dekade.html",
-    "href": "personalia/personalia ikhtibar akbar 2 dekade.html",
-    "title": "personalia panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah",
+    "objectID": "progress/ketua.html",
+    "href": "progress/ketua.html",
+    "title": "Progress Ketua",
     "section": "",
-    "text": "Susunan Panitia\n\n\n\n\n\n\n\nBagian\nNama\n\n\n\n\nKetua Pelaksana\n\nSulthan A. Karimov\n\n\n\nSekretaris\n\nM. Ilham Saputra\n\n\n\nBendahara\n\nIbu Siti Asmuni\n\n\n\nPJ Dokumentasi\n\nFalka Derizqia\nMuhammad Agung Taqiyuddin\n\n\n\nPJ Humas\n\nAhmad Nur Shodiq\nMaulana Yusuf\nM. Rizky\nM. Rafael Ilham\nZahra Celina Palupi\nReisya Sabilla\n\n\n\nPJ Acara\n\nKhaira Salistya Putri\nAlifiya Zafira\nNajwa Aulia Putri\n\n\n\nPJ Perlengkapan\n\nYoga Ananda\nJunior Sakti\nDhafi Fajar\nMuhammad\nHabib Muhammad\n\n\n\nPJ Sound\n\nM. Alfalah Rizky\n\n\n\nPJ Dekorasi\n\nFajar Mahesa Pratama\nIlham Setiawan\nRafa Januari\nM. Akbar Faizal\n\n\n\nPJ Konsumsi\n\nShofie Sintya Putri\nIhsanaurel R.A\nCania Zahra\nSiska Puspita Sari\nGracia Oktaviani\nNaziva Qurratu ’Ainy\n\n\n\nPJ Penerimaan Tamu\n\nRiana Dian Anggraini\nShofia Aulitza Habibah\nChika Rahmawati\nAnggun Mutiara\nSaskia Ainun\nGreyliyan Cinta Savara\n\n\n\nPJ Fund Raising\n\nRama\nFajar Arifin\n\n\n\n\n\n\nKetua Rangkaian Acara Ikhtibar Akbar 2 Dekade\n\n\n\n\n\n\n\nAcara\nNama\n\n\n\n\nLomba Santri\n\nIbu Otista Capri Hastanti\nMba Suci Wulandari\n\n\n\nKhitan Massal\n\nAl-Ustadz Ubaydilah Nur\n\n\n\nLomba Hadroh\n\nAnis Lusiani\nAlvina Anggraini\n\n\n\n\n\n\nSusunan Pembimbing\n\n\n\n\n\n\n\nSeksi\nPembimbing\n\n\n\n\nBendahara\n\nIbu Siti Asmuni\n\n\n\nDokumentasi\n\nBapak Afrizal\n\n\n\nHumas\n\nBapak Agus Miyanto\n\n\n\nAcara\n\nIbu Nervi Pradewi\nMbak Ainur Rahmah Al-Amin\nAulia Rahmi Pratiwi\n\n\n\nSound\n\nBapak Agus Mutholib\n\n\n\nDekorasi\n\nBapak Suprayitno\nMas Muhammad Khoiril\n\n\n\nPerlengkapan\n\nBapak Sukamdi\n\n\n\nKonsumsi\n\nIbu Nur Haryanti\n\n\n\nPenerima Tamu\n\nBapak Suyanto\n\n\n\n\n\n\n\n\n Back to top",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "progress/dekorasi.html",
+    "href": "progress/dekorasi.html",
+    "title": "Progress Dekorasi",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "keuangan/keuangan ikhtibar akbar 2 dekade.html",
+    "href": "keuangan/keuangan ikhtibar akbar 2 dekade.html",
+    "title": "Keuangan Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah",
+    "section": "",
+    "text": "Biaya Tahunan Ikhtibar MDTA Fisabilillah\n\n\n\n\n\n\n\nKeterangan\n      Jumlah\n\n\n\n\nPembelian Hadiah Lomba\nRp. 5.000.000,-\n\n\nTerimakasih Pengajar\nRp. 3.000.000,-\n\n\nPembelian Cindera Mata\nRp. 2.500.000,-\n\n\nKonsumsi Ikhtibar\nRp. 2.000.000,-\n\n\nKomsumsi Lomba\nRp. 500.000,-\n\n\nSekretaris\nRp. 300.000’-\n\n\nDokumentasi\nRp. 500.000,-\n\n\nDekorasi\nRp. 300.000,-\n\n\nDana cadangan\nRp. 700.000,-\n\n\nTotal\nRp. 14.800.000,-\n\n\n\n\n\nBiaya Tambahan Perayaan 2 Dekade MDTA\n\n\n\n\n\n\n\n\n\nBagian\nRincian\n    Harga\n    Total\n\n\n\n\nDekorasi\n\nKebutuhan Dekorasi Acara Puncak\n\nRp. 2.500.000\nRp. 2.900.000\n\n\n\nDekorasi Festival dan Lomba Hadroh\n\nRp. 400.000\n\n\nFilm MDTA\n\nKebutuhan Pembuatan Film\n\nRp. 400.000\nRp. 400.000\n\n\nFestival 2 Dekade MDTA\n\nHadiah - Konsumsi & Cinderamata Juri\n\nRp. 1.500.000\nRp. 1.500.000\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Personalia",
-      "personalia panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
+      "Keuangan",
+      "Keuangan Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
+    ]
+  },
+  {
+    "objectID": "konsep/lomba hadroh.html",
+    "href": "konsep/lomba hadroh.html",
+    "title": "Proker Lomba Hadroh",
+    "section": "",
+    "text": "Pembukaan\n19.45 - 19.50 (5 menit)\n\n\n\n\nSambutan\n19.50 - 19.55 (5 menit)\n\n\nPenyampaian Kriteria Penampilan Lomba\n19.55 - 20.00 (5 menit)\n\n\nPenampilan Hadroh\n20.00 - 20.48 (48 menit)\n\n\nPenampilan Hadroh Senior\n20.48 - 21.03 (15 menit)\n\n\nEvaluasi\n21.03 - 21.08 (5 menit)\n\n\nDoa Penutup\n21.08 - 21-18 (5 menit)",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Rangkaian Acara Ikhtibar",
+      "Proker Lomba Hadroh"
+    ]
+  },
+  {
+    "objectID": "konsep/lomba hadroh.html#rundown-lomba-hadroh",
+    "href": "konsep/lomba hadroh.html#rundown-lomba-hadroh",
+    "title": "Proker Lomba Hadroh",
+    "section": "",
+    "text": "Pembukaan\n19.45 - 19.50 (5 menit)\n\n\n\n\nSambutan\n19.50 - 19.55 (5 menit)\n\n\nPenyampaian Kriteria Penampilan Lomba\n19.55 - 20.00 (5 menit)\n\n\nPenampilan Hadroh\n20.00 - 20.48 (48 menit)\n\n\nPenampilan Hadroh Senior\n20.48 - 21.03 (15 menit)\n\n\nEvaluasi\n21.03 - 21.08 (5 menit)\n\n\nDoa Penutup\n21.08 - 21-18 (5 menit)",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Rangkaian Acara Ikhtibar",
+      "Proker Lomba Hadroh"
+    ]
+  },
+  {
+    "objectID": "konsep/soundman.html",
+    "href": "konsep/soundman.html",
+    "title": "Proker Sound",
+    "section": "",
+    "text": "Bertanggung jawab dalam menyiapkan sound untuk tiap acara Ikhtibar\nMengecek sound sebelum hari-H\nMemasang sound pada saat hari-H\n\n\n\n\n\n\n\n\nSound\nMixser\nMix werles\nMix kabel\nStand mix\nStand sound\nBaterai\nKabel parallel",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Sound"
+    ]
+  },
+  {
+    "objectID": "konsep/soundman.html#proker",
+    "href": "konsep/soundman.html#proker",
+    "title": "Proker Sound",
+    "section": "",
+    "text": "Bertanggung jawab dalam menyiapkan sound untuk tiap acara Ikhtibar\nMengecek sound sebelum hari-H\nMemasang sound pada saat hari-H",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Sound"
+    ]
+  },
+  {
+    "objectID": "konsep/soundman.html#perlengkapan-yang-dibutuhkan",
+    "href": "konsep/soundman.html#perlengkapan-yang-dibutuhkan",
+    "title": "Proker Sound",
+    "section": "",
+    "text": "Sound\nMixser\nMix werles\nMix kabel\nStand mix\nStand sound\nBaterai\nKabel parallel",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Sound"
     ]
   },
   {
@@ -106,6 +169,61 @@
       "Tanggung Jawab - Proker - Konsep",
       "Proker Panitia",
       "Proker Sekretaris"
+    ]
+  },
+  {
+    "objectID": "konsep/konsep.html#petugas-lomba-hadroh",
+    "href": "konsep/konsep.html#petugas-lomba-hadroh",
+    "title": "Konsep Acara-acara Ikhtibar XX",
+    "section": "Petugas Lomba Hadroh",
+    "text": "Petugas Lomba Hadroh\n\n\n\n\n\n\n\n\nAcara\nNama\nPembimbing\n\n\n\n\nMC Lomba Hadroh\n\nIlham Setiawan\nFajar Mahesa\n\nPak Ubay\n\n\nQori\n\nPak Sulthan",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Konsep Acara-acara Ikhtibar XX"
+    ]
+  },
+  {
+    "objectID": "konsep/konsep.html#rundown-lomba-hadroh",
+    "href": "konsep/konsep.html#rundown-lomba-hadroh",
+    "title": "Konsep Acara-acara Ikhtibar XX",
+    "section": "Rundown Lomba Hadroh",
+    "text": "Rundown Lomba Hadroh\n\n\n\n\n\n\n\n\n\n\nAcara\nWaktu\nDurasi\nPerlengkapan\nPetugas\n\n\n\n\nPembukaan\n19.45 - 19.50\n5 m\n\n\n\n\nSambutan\n19.50 - 19.55\n5 m\n\n\n\n\nPenyampaikan Kriteria Lomba\n19.55 - 20.00\n5 m\n\n\n\n\nPenampilan Hadroh\n20.00 - 20.48\n48 m\n\n\n\n\nPenampilan Hadroh Senior\n20.48 - 21.03\n15 m\n\n\n\n\nEvaluasi\n21.03 - 21.08\n5 m\n\n\n\n\nDoa Penutup\n21.08 - 21-18\n5 m",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Konsep Acara-acara Ikhtibar XX"
+    ]
+  },
+  {
+    "objectID": "konsep/konsep.html#petugas-pembagian-hadiah",
+    "href": "konsep/konsep.html#petugas-pembagian-hadiah",
+    "title": "Konsep Acara-acara Ikhtibar XX",
+    "section": "Petugas Pembagian Hadiah",
+    "text": "Petugas Pembagian Hadiah\n\n\n\n\n\n\n\n\nTugas\nNama\nPembimbing\n\n\n\n\nMC Pembagian Hadiah juara 2 & 3\n\nIlham Setiawan\nFajar Mahesa\n\nPak Ubay\n\n\nKhotimin\n\nM. Ilham Saputra\nAhmad Nur Shodiq\n\n\n\n\nPengiring Khatimin\n\nPak Sulthan",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Konsep Acara-acara Ikhtibar XX"
+    ]
+  },
+  {
+    "objectID": "konsep/konsep.html#petugas-acara-puncak",
+    "href": "konsep/konsep.html#petugas-acara-puncak",
+    "title": "Konsep Acara-acara Ikhtibar XX",
+    "section": "Petugas Acara Puncak",
+    "text": "Petugas Acara Puncak\n\n\n\n\n\n\n\n\nTugas\nNama\nPembimbing\n\n\n\n\nTausiyah\nUst. Muhammad Akrom Sholihin, M.Pd\n\n\n\nMC\nAlifya\nMbak Nervi\n\n\nKhotimin\n\nM. Ilham Saputra\nAhmad Nur Shodiq\n\n\n\n\nPengiring Khatimin\n\nPak Sulthan\n\n\nPenampilan MDTA I\n\nMbak Nervi\n\n\nPenampilan MDTA II/III",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Konsep Acara-acara Ikhtibar XX"
+    ]
+  },
+  {
+    "objectID": "konsep/konsep.html#konsep-dekorasi-acara-puncak",
+    "href": "konsep/konsep.html#konsep-dekorasi-acara-puncak",
+    "title": "Konsep Acara-acara Ikhtibar XX",
+    "section": "Konsep Dekorasi Acara Puncak",
+    "text": "Konsep Dekorasi Acara Puncak\n\n\n\ndraft dekorasi acara puncak",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Konsep Acara-acara Ikhtibar XX"
     ]
   },
   {
@@ -157,6 +275,207 @@
     ]
   },
   {
+    "objectID": "konsep/konsumsi.html",
+    "href": "konsep/konsumsi.html",
+    "title": "Proker Konsumsi",
+    "section": "",
+    "text": "Bertanggung jawab dalam menyiapkan konsumsi untuk tiap rentetan acara Ikhtibar\n\n\n\n\n\n\n\n\nNampan\nPiring\nKeranjang buah\nKotak untuk tempat snack\nPlastik 1 kg\nTeko\nGelas\n\n\n\n\n\n\n\n\nShofie Sintya Putri\nIkhsanaurel R.A\nCania Zahra\nSiska Puspita Sari\nGracia Oktaviani\nNaziva Qurratu ’Ainy",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Konsumsi"
+    ]
+  },
+  {
+    "objectID": "konsep/konsumsi.html#proker",
+    "href": "konsep/konsumsi.html#proker",
+    "title": "Proker Konsumsi",
+    "section": "",
+    "text": "Bertanggung jawab dalam menyiapkan konsumsi untuk tiap rentetan acara Ikhtibar",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Konsumsi"
+    ]
+  },
+  {
+    "objectID": "konsep/konsumsi.html#perlengkapan-yang-dibutuhkan",
+    "href": "konsep/konsumsi.html#perlengkapan-yang-dibutuhkan",
+    "title": "Proker Konsumsi",
+    "section": "",
+    "text": "Nampan\nPiring\nKeranjang buah\nKotak untuk tempat snack\nPlastik 1 kg\nTeko\nGelas",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Konsumsi"
+    ]
+  },
+  {
+    "objectID": "konsep/konsumsi.html#personalia-anggota-bagian",
+    "href": "konsep/konsumsi.html#personalia-anggota-bagian",
+    "title": "Proker Konsumsi",
+    "section": "",
+    "text": "Shofie Sintya Putri\nIkhsanaurel R.A\nCania Zahra\nSiska Puspita Sari\nGracia Oktaviani\nNaziva Qurratu ’Ainy",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Konsumsi"
+    ]
+  },
+  {
+    "objectID": "konsep/khitan.html",
+    "href": "konsep/khitan.html",
+    "title": "Proker Khitan Massal",
+    "section": "",
+    "text": "Khitan (Pak Ubay)\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Rangkaian Acara Ikhtibar",
+      "Proker Khitan Massal"
+    ]
+  },
+  {
+    "objectID": "konsep/fund raising.html",
+    "href": "konsep/fund raising.html",
+    "title": "Progress Fund Raising",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Progress Fund Raising"
+    ]
+  },
+  {
+    "objectID": "konsep/dekorasi.html",
+    "href": "konsep/dekorasi.html",
+    "title": "Proker Dekorasi",
+    "section": "",
+    "text": "Membuat Konsep seluruh acara Ikhtibar\n\n\n\n\n\n\n\n\nStyrofoam\nCat\nGliter\nLem\nCutting stiker\nTriplek\nTenda\nBanner\n\n\n\n\n\n\n\n\nIlham Setiawan\nRafa Januari\nM. Akbar Faizal\n\n\n\n\n\n\n\n\nBarang yang di atas gudang Musholla\nBarang yang di kontrakan\n\n\n\n\n\nPager warna ijo (pager bambu)\n\n\nPohon kapas, tiangnya 4, kapasnya di plastik item\n\n\n\n\nLampu TL (ada 2)\n\n\nPernak pernik\n\n\n\n\nBalok panjang yang kecil (ada 10)\n\n\nBanner (bagian perlengkapan)\n\n\n\n\nGliter ada di lemari\n\n\nBendera NU (bagian perlengkapan)\n\n\n\n\n\nLampu TL (1 box)\n\n\n\n\n\nPipa Kolam\n\n\n\n\n\nTempelan tamu banin, banat (bagian perlengkapan)\n\n\n\n\n\nRoll cat (kecil 2, gede 1)\n\n\n\n\n\nSolder 2\n\n\n\n\n\nTali tambang di plastik merah (bagian perlengkapan",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Dekorasi"
+    ]
+  },
+  {
+    "objectID": "konsep/dekorasi.html#proker",
+    "href": "konsep/dekorasi.html#proker",
+    "title": "Proker Dekorasi",
+    "section": "",
+    "text": "Membuat Konsep seluruh acara Ikhtibar",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Dekorasi"
+    ]
+  },
+  {
+    "objectID": "konsep/dekorasi.html#perlengkapan-yang-dibutuhkan",
+    "href": "konsep/dekorasi.html#perlengkapan-yang-dibutuhkan",
+    "title": "Proker Dekorasi",
+    "section": "",
+    "text": "Styrofoam\nCat\nGliter\nLem\nCutting stiker\nTriplek\nTenda\nBanner",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Dekorasi"
+    ]
+  },
+  {
+    "objectID": "konsep/dekorasi.html#personalia-anggota-bagian",
+    "href": "konsep/dekorasi.html#personalia-anggota-bagian",
+    "title": "Proker Dekorasi",
+    "section": "",
+    "text": "Ilham Setiawan\nRafa Januari\nM. Akbar Faizal\n\n\n\n\n\n\n\n\nBarang yang di atas gudang Musholla\nBarang yang di kontrakan\n\n\n\n\n\nPager warna ijo (pager bambu)\n\n\nPohon kapas, tiangnya 4, kapasnya di plastik item\n\n\n\n\nLampu TL (ada 2)\n\n\nPernak pernik\n\n\n\n\nBalok panjang yang kecil (ada 10)\n\n\nBanner (bagian perlengkapan)\n\n\n\n\nGliter ada di lemari\n\n\nBendera NU (bagian perlengkapan)\n\n\n\n\n\nLampu TL (1 box)\n\n\n\n\n\nPipa Kolam\n\n\n\n\n\nTempelan tamu banin, banat (bagian perlengkapan)\n\n\n\n\n\nRoll cat (kecil 2, gede 1)\n\n\n\n\n\nSolder 2\n\n\n\n\n\nTali tambang di plastik merah (bagian perlengkapan",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Dekorasi"
+    ]
+  },
+  {
+    "objectID": "katalog_produk.html",
+    "href": "katalog_produk.html",
+    "title": "Katalog Produk Dua Puluh Tahun MDTA",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Lain-lain",
+      "Katalog Produk 2 Dekade MDTA"
+    ]
+  },
+  {
+    "objectID": "personalia/personalia ikhtibar akbar 2 dekade.html",
+    "href": "personalia/personalia ikhtibar akbar 2 dekade.html",
+    "title": "personalia panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah",
+    "section": "",
+    "text": "Susunan Panitia\n\n\n\n\n\n\n\nBagian\nNama\n\n\n\n\nKetua Pelaksana\n\nSulthan A. Karimov\n\n\n\nSekretaris\n\nM. Ilham Saputra\n\n\n\nBendahara\n\nIbu Siti Asmuni\n\n\n\nPJ Dokumentasi\n\nFalka Derizqia\nMuhammad Agung Taqiyuddin\n\n\n\nPJ Humas\n\nAhmad Nur Shodiq\nMaulana Yusuf\nM. Rizky\nM. Rafael Ilham\nZahra Celina Palupi\nReisya Sabilla\n\n\n\nPJ Acara\n\nKhaira Salistya Putri\nAlifiya Zafira\nNajwa Aulia Putri\n\n\n\nPJ Perlengkapan\n\nYoga Ananda\nJunior Sakti\nDhafi Fajar\nMuhammad\nHabib Muhammad\n\n\n\nPJ Sound\n\nM. Alfalah Rizky\n\n\n\nPJ Dekorasi\n\nFajar Mahesa Pratama\nIlham Setiawan\nRafa Januari\nM. Akbar Faizal\n\n\n\nPJ Konsumsi\n\nShofie Sintya Putri\nIhsanaurel R.A\nCania Zahra\nSiska Puspita Sari\nGracia Oktaviani\nNaziva Qurratu ’Ainy\n\n\n\nPJ Penerimaan Tamu\n\nRiana Dian Anggraini\nShofia Aulitza Habibah\nChika Rahmawati\nAnggun Mutiara\nSaskia Ainun\nGreyliyan Cinta Savara\n\n\n\nPJ Fund Raising\n\nRama\nFajar Arifin\n\n\n\n\n\n\nKetua Rangkaian Acara Ikhtibar Akbar 2 Dekade\n\n\n\n\n\n\n\nAcara\nNama\n\n\n\n\nLomba Santri\n\nIbu Otista Capri Hastanti\nMba Suci Wulandari\n\n\n\nKhitan Massal\n\nAl-Ustadz Ubaydilah Nur\n\n\n\nLomba Hadroh\n\nAnis Lusiani\nAlvina Anggraini\n\n\n\n\n\n\nSusunan Pembimbing\n\n\n\n\n\n\n\nSeksi\nPembimbing\n\n\n\n\nBendahara\n\nIbu Siti Asmuni\n\n\n\nDokumentasi\n\nBapak Afrizal\n\n\n\nHumas\n\nBapak Agus Miyanto\n\n\n\nAcara\n\nIbu Nervi Pradewi\nMbak Ainur Rahmah Al-Amin\nAulia Rahmi Pratiwi\n\n\n\nSound\n\nBapak Agus Mutholib\n\n\n\nDekorasi\n\nBapak Suprayitno\nMas Muhammad Khoiril\n\n\n\nPerlengkapan\n\nBapak Sukamdi\n\n\n\nKonsumsi\n\nIbu Nur Haryanti\n\n\n\nPenerima Tamu\n\nBapak Suyanto\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Personalia",
+      "personalia panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
+    ]
+  },
+  {
+    "objectID": "konsep/bendahara.html",
+    "href": "konsep/bendahara.html",
+    "title": "Proker Bendahara",
+    "section": "",
+    "text": "Bendahara\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Bendahara"
+    ]
+  },
+  {
+    "objectID": "konsep/ketua.html",
+    "href": "konsep/ketua.html",
+    "title": "Proker Ketua",
+    "section": "",
+    "text": "Ketua (Sulthan A. Karimov)\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Ketua"
+    ]
+  },
+  {
+    "objectID": "konsep/festival.html",
+    "href": "konsep/festival.html",
+    "title": "Proker Festival Santri",
+    "section": "",
+    "text": "Mengajukan jenis lomba untuk lomba eksternal\nMenentukan persyaratan perlombaan\nMenyediakan tempat untuk perlombaan\nMenyiapkan hadiah untuk pemenang lomba eksternal\nMengatur urutan acara dari awal hingga akhir\nMengatur jalannya acara pada hari H\nMenjadi time keeper pada hari H\nBekerja sama dengan HUMAS dalam mengurus persebaran informasi perlombaan, pendaftaran, dan kesediaan juri\nBekerja sama dengan PENERIMA TAMU dalam mengurus pendaftaran ulang\nBekerja sama dengan ACARA dalam memandu acara pembukaan, sambutan, pembagian hadiah, penutupan\n\n\n\n\n\nSurat pemberitahuan ke Masjid dan RW dilampirkan jenis lomba dan syarat ketentuannya\n\n\n\n\n\nKertas gambar\nMeja juri\nMic + sound\nLembar Penilaian\nMap\nPulpen\nGulungan kertas surat atau ayat\nLabel besar untuk nama peserta\n\n\n\n\n\n\n\n\n\n\n\nketerangan\n     total\n\n\n\n\nhadiah, makan juri, cinderamata juri\nRp 1.500.000"
+  },
+  {
+    "objectID": "konsep/festival.html#proker",
+    "href": "konsep/festival.html#proker",
+    "title": "Proker Festival Santri",
+    "section": "",
+    "text": "Mengajukan jenis lomba untuk lomba eksternal\nMenentukan persyaratan perlombaan\nMenyediakan tempat untuk perlombaan\nMenyiapkan hadiah untuk pemenang lomba eksternal\nMengatur urutan acara dari awal hingga akhir\nMengatur jalannya acara pada hari H\nMenjadi time keeper pada hari H\nBekerja sama dengan HUMAS dalam mengurus persebaran informasi perlombaan, pendaftaran, dan kesediaan juri\nBekerja sama dengan PENERIMA TAMU dalam mengurus pendaftaran ulang\nBekerja sama dengan ACARA dalam memandu acara pembukaan, sambutan, pembagian hadiah, penutupan"
+  },
+  {
+    "objectID": "konsep/festival.html#surat-yang-dibutuhkan",
+    "href": "konsep/festival.html#surat-yang-dibutuhkan",
+    "title": "Proker Festival Santri",
+    "section": "",
+    "text": "Surat pemberitahuan ke Masjid dan RW dilampirkan jenis lomba dan syarat ketentuannya"
+  },
+  {
+    "objectID": "konsep/festival.html#perlengkapan-yang-dibutuhkan",
+    "href": "konsep/festival.html#perlengkapan-yang-dibutuhkan",
+    "title": "Proker Festival Santri",
+    "section": "",
+    "text": "Kertas gambar\nMeja juri\nMic + sound\nLembar Penilaian\nMap\nPulpen\nGulungan kertas surat atau ayat\nLabel besar untuk nama peserta"
+  },
+  {
+    "objectID": "konsep/festival.html#biaya-yang-dibutuhkan",
+    "href": "konsep/festival.html#biaya-yang-dibutuhkan",
+    "title": "Proker Festival Santri",
+    "section": "",
+    "text": "keterangan\n     total\n\n\n\n\nhadiah, makan juri, cinderamata juri\nRp 1.500.000"
+  },
+  {
     "objectID": "konsep/lomba santri.html",
     "href": "konsep/lomba santri.html",
     "title": "Proker Lomba Santri",
@@ -190,6 +509,54 @@
       "Tanggung Jawab - Proker - Konsep",
       "Rangkaian Acara Ikhtibar",
       "Proker Lomba Santri"
+    ]
+  },
+  {
+    "objectID": "konsep/penerimaan tamu.html",
+    "href": "konsep/penerimaan tamu.html",
+    "title": "Proker Penerimaan Tamu",
+    "section": "",
+    "text": "Bertanggung jawab dalam mengatur alur datang dan pulang Tamu\nBertanggung jawab dalam mengatur posisi tamu yang hadir\nMenjaga meja penerimaan tamu di setiap acara Ikhtibar\nBertanggung jawab dalam penyambutan tamu\n\n\n\n\n\n\n\n\nPlastik sendal\nMeja penerima tamu\nTaplak meja\nPolybag\n\n\n\n\n\n\n\n\nShofia Aulitza Habibah\nChika Rahmawati\nAnggun Mutiara\nSaskia Ainun\nGreyliyan Cinta Savara",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Penerimaan Tamu"
+    ]
+  },
+  {
+    "objectID": "konsep/penerimaan tamu.html#proker",
+    "href": "konsep/penerimaan tamu.html#proker",
+    "title": "Proker Penerimaan Tamu",
+    "section": "",
+    "text": "Bertanggung jawab dalam mengatur alur datang dan pulang Tamu\nBertanggung jawab dalam mengatur posisi tamu yang hadir\nMenjaga meja penerimaan tamu di setiap acara Ikhtibar\nBertanggung jawab dalam penyambutan tamu",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Penerimaan Tamu"
+    ]
+  },
+  {
+    "objectID": "konsep/penerimaan tamu.html#perlengkapan-yang-dibutuhkan",
+    "href": "konsep/penerimaan tamu.html#perlengkapan-yang-dibutuhkan",
+    "title": "Proker Penerimaan Tamu",
+    "section": "",
+    "text": "Plastik sendal\nMeja penerima tamu\nTaplak meja\nPolybag",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Penerimaan Tamu"
+    ]
+  },
+  {
+    "objectID": "konsep/penerimaan tamu.html#personalia-anggota-bagian",
+    "href": "konsep/penerimaan tamu.html#personalia-anggota-bagian",
+    "title": "Proker Penerimaan Tamu",
+    "section": "",
+    "text": "Shofia Aulitza Habibah\nChika Rahmawati\nAnggun Mutiara\nSaskia Ainun\nGreyliyan Cinta Savara",
+    "crumbs": [
+      "Tanggung Jawab - Proker - Konsep",
+      "Proker Panitia",
+      "Proker Penerimaan Tamu"
     ]
   },
   {
@@ -265,54 +632,6 @@
     ]
   },
   {
-    "objectID": "konsep/ketua.html",
-    "href": "konsep/ketua.html",
-    "title": "Proker Ketua",
-    "section": "",
-    "text": "Ketua (Sulthan A. Karimov)\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Ketua"
-    ]
-  },
-  {
-    "objectID": "konsep/dokumentasi.html",
-    "href": "konsep/dokumentasi.html",
-    "title": "Proker Dokumentasi",
-    "section": "",
-    "text": "Mendokumentasikan seluruh acara Ikhtibar\nMemilih dokumentasi acara terbaik untuk dicetak atau dipublikasikan\nMempublikasikan dokumentasi acara\nFilm Dokumenter Napak Tilas 20 Tahun MDTA Fisabilillah",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Dokumentasi"
-    ]
-  },
-  {
-    "objectID": "konsep/dokumentasi.html#proker",
-    "href": "konsep/dokumentasi.html#proker",
-    "title": "Proker Dokumentasi",
-    "section": "",
-    "text": "Mendokumentasikan seluruh acara Ikhtibar\nMemilih dokumentasi acara terbaik untuk dicetak atau dipublikasikan\nMempublikasikan dokumentasi acara\nFilm Dokumenter Napak Tilas 20 Tahun MDTA Fisabilillah",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Dokumentasi"
-    ]
-  },
-  {
-    "objectID": "konsep/khitan.html",
-    "href": "konsep/khitan.html",
-    "title": "Proker Khitan Massal",
-    "section": "",
-    "text": "Khitan (Pak Ubay)\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Rangkaian Acara Ikhtibar",
-      "Proker Khitan Massal"
-    ]
-  },
-  {
     "objectID": "konsep/perlengkapan.html",
     "href": "konsep/perlengkapan.html",
     "title": "Proker Perlengkapan",
@@ -346,133 +665,6 @@
       "Tanggung Jawab - Proker - Konsep",
       "Proker Panitia",
       "Proker Perlengkapan"
-    ]
-  },
-  {
-    "objectID": "konsep/konsep.html#petugas-lomba-hadroh",
-    "href": "konsep/konsep.html#petugas-lomba-hadroh",
-    "title": "Konsep Acara-acara Ikhtibar XX",
-    "section": "Petugas Lomba Hadroh",
-    "text": "Petugas Lomba Hadroh\n\n\n\n\n\n\n\n\nAcara\nNama\nPembimbing\n\n\n\n\nMC Lomba Hadroh\n\nIlham Setiawan\nFajar Mahesa\n\nPak Ubay\n\n\nQori\n\nPak Sulthan",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Konsep Acara-acara Ikhtibar XX"
-    ]
-  },
-  {
-    "objectID": "konsep/konsep.html#rundown-lomba-hadroh",
-    "href": "konsep/konsep.html#rundown-lomba-hadroh",
-    "title": "Konsep Acara-acara Ikhtibar XX",
-    "section": "Rundown Lomba Hadroh",
-    "text": "Rundown Lomba Hadroh\n\n\n\n\n\n\n\n\n\n\nAcara\nWaktu\nDurasi\nPerlengkapan\nPetugas\n\n\n\n\nPembukaan\n19.45 - 19.50\n5 m\n\n\n\n\nSambutan\n19.50 - 19.55\n5 m\n\n\n\n\nPenyampaikan Kriteria Lomba\n19.55 - 20.00\n5 m\n\n\n\n\nPenampilan Hadroh\n20.00 - 20.48\n48 m\n\n\n\n\nPenampilan Hadroh Senior\n20.48 - 21.03\n15 m\n\n\n\n\nEvaluasi\n21.03 - 21.08\n5 m\n\n\n\n\nDoa Penutup\n21.08 - 21-18\n5 m",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Konsep Acara-acara Ikhtibar XX"
-    ]
-  },
-  {
-    "objectID": "konsep/konsep.html#petugas-pembagian-hadiah",
-    "href": "konsep/konsep.html#petugas-pembagian-hadiah",
-    "title": "Konsep Acara-acara Ikhtibar XX",
-    "section": "Petugas Pembagian Hadiah",
-    "text": "Petugas Pembagian Hadiah\n\n\n\n\n\n\n\n\nTugas\nNama\nPembimbing\n\n\n\n\nMC Pembagian Hadiah juara 2 & 3\n\nIlham Setiawan\nFajar Mahesa\n\nPak Ubay\n\n\nKhotimin\n\nM. Ilham Saputra\nAhmad Nur Shodiq\n\n\n\n\nPengiring Khatimin\n\nPak Sulthan",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Konsep Acara-acara Ikhtibar XX"
-    ]
-  },
-  {
-    "objectID": "konsep/konsep.html#petugas-acara-puncak",
-    "href": "konsep/konsep.html#petugas-acara-puncak",
-    "title": "Konsep Acara-acara Ikhtibar XX",
-    "section": "Petugas Acara Puncak",
-    "text": "Petugas Acara Puncak\n\n\n\n\n\n\n\n\nTugas\nNama\nPembimbing\n\n\n\n\nTausiyah\nUst. Muhammad Akrom Sholihin, M.Pd\n\n\n\nMC\nAlifya\nMbak Nervi\n\n\nKhotimin\n\nM. Ilham Saputra\nAhmad Nur Shodiq\n\n\n\n\nPengiring Khatimin\n\nPak Sulthan\n\n\nPenampilan MDTA I\n\nMbak Nervi\n\n\nPenampilan MDTA II/III",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Konsep Acara-acara Ikhtibar XX"
-    ]
-  },
-  {
-    "objectID": "konsep/konsep.html#konsep-dekorasi-acara-puncak",
-    "href": "konsep/konsep.html#konsep-dekorasi-acara-puncak",
-    "title": "Konsep Acara-acara Ikhtibar XX",
-    "section": "Konsep Dekorasi Acara Puncak",
-    "text": "Konsep Dekorasi Acara Puncak\n\n\n\ndraft dekorasi acara puncak",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Konsep Acara-acara Ikhtibar XX"
-    ]
-  },
-  {
-    "objectID": "keuangan/keuangan ikhtibar akbar 2 dekade.html",
-    "href": "keuangan/keuangan ikhtibar akbar 2 dekade.html",
-    "title": "Keuangan Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah",
-    "section": "",
-    "text": "Biaya Tahunan Ikhtibar MDTA Fisabilillah\n\n\n\n\n\n\n\nKeterangan\n      Jumlah\n\n\n\n\nPembelian Hadiah Lomba\nRp. 5.000.000,-\n\n\nTerimakasih Pengajar\nRp. 3.000.000,-\n\n\nPembelian Cindera Mata\nRp. 2.500.000,-\n\n\nKonsumsi Ikhtibar\nRp. 2.000.000,-\n\n\nKomsumsi Lomba\nRp. 500.000,-\n\n\nSekretaris\nRp. 300.000’-\n\n\nDokumentasi\nRp. 500.000,-\n\n\nDekorasi\nRp. 300.000,-\n\n\nDana cadangan\nRp. 700.000,-\n\n\nTotal\nRp. 14.800.000,-\n\n\n\n\n\nBiaya Tambahan Perayaan 2 Dekade MDTA\n\n\n\n\n\n\n\n\n\nBagian\nRincian\n    Harga\n    Total\n\n\n\n\nDekorasi\n\nKebutuhan Dekorasi Acara Puncak\n\nRp. 2.500.000\nRp. 2.900.000\n\n\n\nDekorasi Festival dan Lomba Hadroh\n\nRp. 400.000\n\n\nFilm MDTA\n\nKebutuhan Pembuatan Film\n\nRp. 400.000\nRp. 400.000\n\n\nFestival 2 Dekade MDTA\n\nHadiah - Konsumsi & Cinderamata Juri\n\nRp. 1.500.000\nRp. 1.500.000\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Keuangan",
-      "Keuangan Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
-    ]
-  },
-  {
-    "objectID": "script_napak_tilas.html",
-    "href": "script_napak_tilas.html",
-    "title": "Script Film Napak Tilas Ikhtibar Akbar XX Tahun MDTA Fisabilillah",
-    "section": "",
-    "text": "Description\nTime\nNarration\nVisuals\nSound\n\n\n\n\nOpening\n3 Sec\n\n20\n\nFading Text with Black Background\nketika video mulai musik mulai dari bawah, kemudian naik seiring berjalannya video\n\n\nNarasi\n1 Min"
-  },
-  {
-    "objectID": "script_napak_tilas.html#kompilasi-video-napak-tilas",
-    "href": "script_napak_tilas.html#kompilasi-video-napak-tilas",
-    "title": "Script Film Napak Tilas Ikhtibar Akbar XX Tahun MDTA Fisabilillah",
-    "section": "",
-    "text": "Description\nTime\nNarration\nVisuals\nSound\n\n\n\n\nOpening\n3 Sec\n\n20\n\nFading Text with Black Background\nketika video mulai musik mulai dari bawah, kemudian naik seiring berjalannya video\n\n\nNarasi\n1 Min"
-  },
-  {
-    "objectID": "konsep/festival.html",
-    "href": "konsep/festival.html",
-    "title": "Proker Festival Santri",
-    "section": "",
-    "text": "Mengajukan jenis lomba untuk lomba eksternal\nMenentukan persyaratan perlombaan\nMenyediakan tempat untuk perlombaan\nMenyiapkan hadiah untuk pemenang lomba eksternal\nMengatur urutan acara dari awal hingga akhir\nMengatur jalannya acara pada hari H\nMenjadi time keeper pada hari H\nBekerja sama dengan HUMAS dalam mengurus persebaran informasi perlombaan, pendaftaran, dan kesediaan juri\nBekerja sama dengan PENERIMA TAMU dalam mengurus pendaftaran ulang\nBekerja sama dengan ACARA dalam memandu acara pembukaan, sambutan, pembagian hadiah, penutupan\n\n\n\n\n\nSurat pemberitahuan ke Masjid dan RW dilampirkan jenis lomba dan syarat ketentuannya\n\n\n\n\n\nKertas gambar\nMeja juri\nMic + sound\nLembar Penilaian\nMap\nPulpen\nGulungan kertas surat atau ayat\nLabel besar untuk nama peserta\n\n\n\n\n\n\n\n\n\n\n\nketerangan\n     total\n\n\n\n\nhadiah, makan juri, cinderamata juri\nRp 1.500.000"
-  },
-  {
-    "objectID": "konsep/festival.html#proker",
-    "href": "konsep/festival.html#proker",
-    "title": "Proker Festival Santri",
-    "section": "",
-    "text": "Mengajukan jenis lomba untuk lomba eksternal\nMenentukan persyaratan perlombaan\nMenyediakan tempat untuk perlombaan\nMenyiapkan hadiah untuk pemenang lomba eksternal\nMengatur urutan acara dari awal hingga akhir\nMengatur jalannya acara pada hari H\nMenjadi time keeper pada hari H\nBekerja sama dengan HUMAS dalam mengurus persebaran informasi perlombaan, pendaftaran, dan kesediaan juri\nBekerja sama dengan PENERIMA TAMU dalam mengurus pendaftaran ulang\nBekerja sama dengan ACARA dalam memandu acara pembukaan, sambutan, pembagian hadiah, penutupan"
-  },
-  {
-    "objectID": "konsep/festival.html#surat-yang-dibutuhkan",
-    "href": "konsep/festival.html#surat-yang-dibutuhkan",
-    "title": "Proker Festival Santri",
-    "section": "",
-    "text": "Surat pemberitahuan ke Masjid dan RW dilampirkan jenis lomba dan syarat ketentuannya"
-  },
-  {
-    "objectID": "konsep/festival.html#perlengkapan-yang-dibutuhkan",
-    "href": "konsep/festival.html#perlengkapan-yang-dibutuhkan",
-    "title": "Proker Festival Santri",
-    "section": "",
-    "text": "Kertas gambar\nMeja juri\nMic + sound\nLembar Penilaian\nMap\nPulpen\nGulungan kertas surat atau ayat\nLabel besar untuk nama peserta"
-  },
-  {
-    "objectID": "konsep/festival.html#biaya-yang-dibutuhkan",
-    "href": "konsep/festival.html#biaya-yang-dibutuhkan",
-    "title": "Proker Festival Santri",
-    "section": "",
-    "text": "keterangan\n     total\n\n\n\n\nhadiah, makan juri, cinderamata juri\nRp 1.500.000"
-  },
-  {
-    "objectID": "konsep/bendahara.html",
-    "href": "konsep/bendahara.html",
-    "title": "Proker Bendahara",
-    "section": "",
-    "text": "Bendahara\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Bendahara"
     ]
   },
   {
@@ -548,219 +740,27 @@
     ]
   },
   {
-    "objectID": "konsep/penerimaan tamu.html",
-    "href": "konsep/penerimaan tamu.html",
-    "title": "Proker Penerimaan Tamu",
+    "objectID": "konsep/dokumentasi.html",
+    "href": "konsep/dokumentasi.html",
+    "title": "Proker Dokumentasi",
     "section": "",
-    "text": "Bertanggung jawab dalam mengatur alur datang dan pulang Tamu\nBertanggung jawab dalam mengatur posisi tamu yang hadir\nMenjaga meja penerimaan tamu di setiap acara Ikhtibar\nBertanggung jawab dalam penyambutan tamu\n\n\n\n\n\n\n\n\nPlastik sendal\nMeja penerima tamu\nTaplak meja\nPolybag\n\n\n\n\n\n\n\n\nShofia Aulitza Habibah\nChika Rahmawati\nAnggun Mutiara\nSaskia Ainun\nGreyliyan Cinta Savara",
+    "text": "Mendokumentasikan seluruh acara Ikhtibar\nMemilih dokumentasi acara terbaik untuk dicetak atau dipublikasikan\nMempublikasikan dokumentasi acara\nFilm Dokumenter Napak Tilas 20 Tahun MDTA Fisabilillah",
     "crumbs": [
       "Tanggung Jawab - Proker - Konsep",
       "Proker Panitia",
-      "Proker Penerimaan Tamu"
+      "Proker Dokumentasi"
     ]
   },
   {
-    "objectID": "konsep/penerimaan tamu.html#proker",
-    "href": "konsep/penerimaan tamu.html#proker",
-    "title": "Proker Penerimaan Tamu",
+    "objectID": "konsep/dokumentasi.html#proker",
+    "href": "konsep/dokumentasi.html#proker",
+    "title": "Proker Dokumentasi",
     "section": "",
-    "text": "Bertanggung jawab dalam mengatur alur datang dan pulang Tamu\nBertanggung jawab dalam mengatur posisi tamu yang hadir\nMenjaga meja penerimaan tamu di setiap acara Ikhtibar\nBertanggung jawab dalam penyambutan tamu",
+    "text": "Mendokumentasikan seluruh acara Ikhtibar\nMemilih dokumentasi acara terbaik untuk dicetak atau dipublikasikan\nMempublikasikan dokumentasi acara\nFilm Dokumenter Napak Tilas 20 Tahun MDTA Fisabilillah",
     "crumbs": [
       "Tanggung Jawab - Proker - Konsep",
       "Proker Panitia",
-      "Proker Penerimaan Tamu"
-    ]
-  },
-  {
-    "objectID": "konsep/penerimaan tamu.html#perlengkapan-yang-dibutuhkan",
-    "href": "konsep/penerimaan tamu.html#perlengkapan-yang-dibutuhkan",
-    "title": "Proker Penerimaan Tamu",
-    "section": "",
-    "text": "Plastik sendal\nMeja penerima tamu\nTaplak meja\nPolybag",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Penerimaan Tamu"
-    ]
-  },
-  {
-    "objectID": "konsep/penerimaan tamu.html#personalia-anggota-bagian",
-    "href": "konsep/penerimaan tamu.html#personalia-anggota-bagian",
-    "title": "Proker Penerimaan Tamu",
-    "section": "",
-    "text": "Shofia Aulitza Habibah\nChika Rahmawati\nAnggun Mutiara\nSaskia Ainun\nGreyliyan Cinta Savara",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Penerimaan Tamu"
-    ]
-  },
-  {
-    "objectID": "konsep/dekorasi.html",
-    "href": "konsep/dekorasi.html",
-    "title": "Proker Dekorasi",
-    "section": "",
-    "text": "Membuat Konsep seluruh acara Ikhtibar\n\n\n\n\n\n\n\n\nStyrofoam\nCat\nGliter\nLem\nCutting stiker\nTriplek\nTenda\nBanner\n\n\n\n\n\n\n\n\nIlham Setiawan\nRafa Januari\nM. Akbar Faizal\n\n\n\n\n\n\n\n\nBarang yang di atas gudang Musholla\nBarang yang di kontrakan\n\n\n\n\n\nPager warna ijo (pager bambu)\n\n\nPohon kapas, tiangnya 4, kapasnya di plastik item\n\n\n\n\nLampu TL (ada 2)\n\n\nPernak pernik\n\n\n\n\nBalok panjang yang kecil (ada 10)\n\n\nBanner (bagian perlengkapan)\n\n\n\n\nGliter ada di lemari\n\n\nBendera NU (bagian perlengkapan)\n\n\n\n\n\nLampu TL (1 box)\n\n\n\n\n\nPipa Kolam\n\n\n\n\n\nTempelan tamu banin, banat (bagian perlengkapan)\n\n\n\n\n\nRoll cat (kecil 2, gede 1)\n\n\n\n\n\nSolder 2\n\n\n\n\n\nTali tambang di plastik merah (bagian perlengkapan",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Dekorasi"
-    ]
-  },
-  {
-    "objectID": "konsep/dekorasi.html#proker",
-    "href": "konsep/dekorasi.html#proker",
-    "title": "Proker Dekorasi",
-    "section": "",
-    "text": "Membuat Konsep seluruh acara Ikhtibar",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Dekorasi"
-    ]
-  },
-  {
-    "objectID": "konsep/dekorasi.html#perlengkapan-yang-dibutuhkan",
-    "href": "konsep/dekorasi.html#perlengkapan-yang-dibutuhkan",
-    "title": "Proker Dekorasi",
-    "section": "",
-    "text": "Styrofoam\nCat\nGliter\nLem\nCutting stiker\nTriplek\nTenda\nBanner",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Dekorasi"
-    ]
-  },
-  {
-    "objectID": "konsep/dekorasi.html#personalia-anggota-bagian",
-    "href": "konsep/dekorasi.html#personalia-anggota-bagian",
-    "title": "Proker Dekorasi",
-    "section": "",
-    "text": "Ilham Setiawan\nRafa Januari\nM. Akbar Faizal\n\n\n\n\n\n\n\n\nBarang yang di atas gudang Musholla\nBarang yang di kontrakan\n\n\n\n\n\nPager warna ijo (pager bambu)\n\n\nPohon kapas, tiangnya 4, kapasnya di plastik item\n\n\n\n\nLampu TL (ada 2)\n\n\nPernak pernik\n\n\n\n\nBalok panjang yang kecil (ada 10)\n\n\nBanner (bagian perlengkapan)\n\n\n\n\nGliter ada di lemari\n\n\nBendera NU (bagian perlengkapan)\n\n\n\n\n\nLampu TL (1 box)\n\n\n\n\n\nPipa Kolam\n\n\n\n\n\nTempelan tamu banin, banat (bagian perlengkapan)\n\n\n\n\n\nRoll cat (kecil 2, gede 1)\n\n\n\n\n\nSolder 2\n\n\n\n\n\nTali tambang di plastik merah (bagian perlengkapan",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Dekorasi"
-    ]
-  },
-  {
-    "objectID": "konsep/soundman.html",
-    "href": "konsep/soundman.html",
-    "title": "Proker Sound",
-    "section": "",
-    "text": "Bertanggung jawab dalam menyiapkan sound untuk tiap acara Ikhtibar\nMengecek sound sebelum hari-H\nMemasang sound pada saat hari-H\n\n\n\n\n\n\n\n\nSound\nMixser\nMix werles\nMix kabel\nStand mix\nStand sound\nBaterai\nKabel parallel",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Sound"
-    ]
-  },
-  {
-    "objectID": "konsep/soundman.html#proker",
-    "href": "konsep/soundman.html#proker",
-    "title": "Proker Sound",
-    "section": "",
-    "text": "Bertanggung jawab dalam menyiapkan sound untuk tiap acara Ikhtibar\nMengecek sound sebelum hari-H\nMemasang sound pada saat hari-H",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Sound"
-    ]
-  },
-  {
-    "objectID": "konsep/soundman.html#perlengkapan-yang-dibutuhkan",
-    "href": "konsep/soundman.html#perlengkapan-yang-dibutuhkan",
-    "title": "Proker Sound",
-    "section": "",
-    "text": "Sound\nMixser\nMix werles\nMix kabel\nStand mix\nStand sound\nBaterai\nKabel parallel",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Sound"
-    ]
-  },
-  {
-    "objectID": "konsep/konsumsi.html",
-    "href": "konsep/konsumsi.html",
-    "title": "Proker Konsumsi",
-    "section": "",
-    "text": "Bertanggung jawab dalam menyiapkan konsumsi untuk tiap rentetan acara Ikhtibar\n\n\n\n\n\n\n\n\nNampan\nPiring\nKeranjang buah\nKotak untuk tempat snack\nPlastik 1 kg\nTeko\nGelas\n\n\n\n\n\n\n\n\nShofie Sintya Putri\nIkhsanaurel R.A\nCania Zahra\nSiska Puspita Sari\nGracia Oktaviani\nNaziva Qurratu ’Ainy",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Konsumsi"
-    ]
-  },
-  {
-    "objectID": "konsep/konsumsi.html#proker",
-    "href": "konsep/konsumsi.html#proker",
-    "title": "Proker Konsumsi",
-    "section": "",
-    "text": "Bertanggung jawab dalam menyiapkan konsumsi untuk tiap rentetan acara Ikhtibar",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Konsumsi"
-    ]
-  },
-  {
-    "objectID": "konsep/konsumsi.html#perlengkapan-yang-dibutuhkan",
-    "href": "konsep/konsumsi.html#perlengkapan-yang-dibutuhkan",
-    "title": "Proker Konsumsi",
-    "section": "",
-    "text": "Nampan\nPiring\nKeranjang buah\nKotak untuk tempat snack\nPlastik 1 kg\nTeko\nGelas",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Konsumsi"
-    ]
-  },
-  {
-    "objectID": "konsep/konsumsi.html#personalia-anggota-bagian",
-    "href": "konsep/konsumsi.html#personalia-anggota-bagian",
-    "title": "Proker Konsumsi",
-    "section": "",
-    "text": "Shofie Sintya Putri\nIkhsanaurel R.A\nCania Zahra\nSiska Puspita Sari\nGracia Oktaviani\nNaziva Qurratu ’Ainy",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Proker Konsumsi"
-    ]
-  },
-  {
-    "objectID": "konsep/fund raising.html",
-    "href": "konsep/fund raising.html",
-    "title": "Progress Fund Raising",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Proker Panitia",
-      "Progress Fund Raising"
-    ]
-  },
-  {
-    "objectID": "konsep/lomba hadroh.html",
-    "href": "konsep/lomba hadroh.html",
-    "title": "Proker Lomba Hadroh",
-    "section": "",
-    "text": "Pembukaan\n19.45 - 19.50 (5 menit)\n\n\n\n\nSambutan\n19.50 - 19.55 (5 menit)\n\n\nPenyampaian Kriteria Penampilan Lomba\n19.55 - 20.00 (5 menit)\n\n\nPenampilan Hadroh\n20.00 - 20.48 (48 menit)\n\n\nPenampilan Hadroh Senior\n20.48 - 21.03 (15 menit)\n\n\nEvaluasi\n21.03 - 21.08 (5 menit)\n\n\nDoa Penutup\n21.08 - 21-18 (5 menit)",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Rangkaian Acara Ikhtibar",
-      "Proker Lomba Hadroh"
-    ]
-  },
-  {
-    "objectID": "konsep/lomba hadroh.html#rundown-lomba-hadroh",
-    "href": "konsep/lomba hadroh.html#rundown-lomba-hadroh",
-    "title": "Proker Lomba Hadroh",
-    "section": "",
-    "text": "Pembukaan\n19.45 - 19.50 (5 menit)\n\n\n\n\nSambutan\n19.50 - 19.55 (5 menit)\n\n\nPenyampaian Kriteria Penampilan Lomba\n19.55 - 20.00 (5 menit)\n\n\nPenampilan Hadroh\n20.00 - 20.48 (48 menit)\n\n\nPenampilan Hadroh Senior\n20.48 - 21.03 (15 menit)\n\n\nEvaluasi\n21.03 - 21.08 (5 menit)\n\n\nDoa Penutup\n21.08 - 21-18 (5 menit)",
-    "crumbs": [
-      "Tanggung Jawab - Proker - Konsep",
-      "Rangkaian Acara Ikhtibar",
-      "Proker Lomba Hadroh"
+      "Proker Dokumentasi"
     ]
   },
   {
@@ -774,9 +774,23 @@
     ]
   },
   {
-    "objectID": "progress/perlengkapan.html",
-    "href": "progress/perlengkapan.html",
-    "title": "Progress Perlengkapan",
+    "objectID": "progress/bendahara.html",
+    "href": "progress/bendahara.html",
+    "title": "Progress Bendahara",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "progress/perimaan tamu.html",
+    "href": "progress/perimaan tamu.html",
+    "title": "Progress Penerimaan Tamu",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "progress/fund raising.html",
+    "href": "progress/fund raising.html",
+    "title": "Progress Fund Raising",
     "section": "",
     "text": "Back to top"
   },
@@ -788,25 +802,22 @@
     "text": "Back to top"
   },
   {
-    "objectID": "progress/dokumentasi.html",
-    "href": "progress/dokumentasi.html",
-    "title": "Progress Dokumentasi",
+    "objectID": "progress/konsumsi.html",
+    "href": "progress/konsumsi.html",
+    "title": "Progress Konsumsi",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "progress/ketua.html",
-    "href": "progress/ketua.html",
-    "title": "Progress Ketua",
+    "objectID": "progress/progress.html",
+    "href": "progress/progress.html",
+    "title": "Progress Kerja Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah",
     "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "progress/dekorasi.html",
-    "href": "progress/dekorasi.html",
-    "title": "Progress Dekorasi",
-    "section": "",
-    "text": "Back to top"
+    "text": "gantt\n  dateFormat  YYYY-MM-DD\n  axisFormat  %m-%d\n  tickInterval 1week\n  title       Diagram Kerja Panitia Ikhtibar Akbar 2 Dekade MDTA Fisabilillah\n\n  Pembentukan Panitia : done, bentuk, 2024-10-10, 2h\n  Khitan Massal : milestone, khitan, 2025-01-27, 5h\n  Lomba Hadroh & Festival : milestone, hadroh, 2025-02-01, 5h\n  Acara Puncak Ikhtibar Akbar : milestone, ikhtibar, 2025-02-15, 5h\n\n  section Umum\n  susunan panitia   :done, 2024-10-28, 1h\n  rincian anggaran  :done, 2024-10-28, 1h\n  tentukan tanggal acara    :done, 2024-11-05, 1d\n\n  section serempak\n  pembersihan lomba hadroh :pembersihanhadroh, after khitan, 1d\n  pembersihan acara puncak :pembersihanpuncak, after ikhtibar, 1d\n\n  section Lomba\n  fixing jenis lomba :jenis, 2024-11-11, 1w\n  buat kelompok lomba :kelompok, after jenis, 1w\n  persiapan soal lomba :soal, 2024-11-11, until khitan\n\n  section Sekretaris\n  buat surat pemberitahuan wali santri :pemberitahuan, 2024-11-11, 3d\n  buat surat penceramah :penceramah, after pemberitahuan, 1d\n  lengkapi proposal :proposal, after penceramah, 1w\n  buat surat undangan :undangan, after proposal, 3d\n  print daftar kelompok lomba :daftarkelompok, after kelompok, 3d\n  print daftar syarat wajib lomba :daftarwajib, after kelompok, 3d\n\n  section Humas\n  distribusi surat pemberitahuan :dispemberitahuan, after pemberitahuan, 1w\n  kirim surat penceramah :dispenceramah, after penceramah, 1w\n  distribusi surat undangan :undangan, 2025-02-1, 1w\n\n  section Acara Puncak\n  susunan acara :active, 2024-11-11, 10d\n  penentuan petugas acara :petugas, 2024-11-10, 1d\n  latihan MC Hadroh, MC Acara, Penampilan, Khataman :active, after petugas, 2025-01-27\n\n  section Dekorasi\n  buat struktur backdrop 3D di blender  :dekor1, 2024-11-11, 3d\n  buat design trawangan dan detail :dekor2, after dekor1, 4d\n  buat design lighting ke backdrop  :dekor3, after dekor2, 4d\n  buat design photo booth   :dekor4, after dekor3, 5d\n\n  section Perlengkapan\n  pemasangan tenda lomba hadroh :tenda, 2025-01-28, 1d\n  persiapan kursi lomba hadroh :kursi, 2025-01-28, 1d\n  persiapan perlengkapan acara puncak :1d\n\n  section Dekorasi & Perlengkapan\n  beli bahan dekor :beli, 2024-12-10, 3d\n  buat struktur backdrop :struktur, after beli, 2w\n  buat trawangan backdrop :trawangan, after struktur, 3w\n  test backdrop :test, after trawangan, 2d\n\n  section Soundman\n\n  section Konsumsi\n\n  section Penerimaan Tamu\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Laporan & Progress tiap Bagian",
+      "Progress Kerja Panitia"
+    ]
   },
   {
     "objectID": "progress/acara puncak.html",
@@ -816,23 +827,23 @@
     "text": "Back to top"
   },
   {
-    "objectID": "progress/lomba santri.html",
-    "href": "progress/lomba santri.html",
-    "title": "Progress Lomba Santri",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "progress/humas.html",
-    "href": "progress/humas.html",
-    "title": "Progress Humas",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
     "objectID": "progress/sekretaris.html",
     "href": "progress/sekretaris.html",
     "title": "Progress Sekretaris",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "progress/soundman.html",
+    "href": "progress/soundman.html",
+    "title": "Progress Sound",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "progress/lomba hadroh.html",
+    "href": "progress/lomba hadroh.html",
+    "title": "Progress Lomba Hadroh",
     "section": "",
     "text": "Back to top"
   }
