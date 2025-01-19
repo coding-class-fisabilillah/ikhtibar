@@ -86,4 +86,8 @@ freeze: true
 
 ## Konsep Dekorasi Acara Puncak
 
-![draft dekorasi acara puncak](./dekor12112024_1.png)
+![draft dekorasi pekan lomba dan khitan](./dekor dalam.png)
+![draft dekorasi pekan lomba dan khitan](./dekor dalam + logo.png)
+![draft dekorasi festival hadroh](./dekor panggung lapangan.png)
+![draft dekorasi acara puncak](./dekor utama.png)
+![draft dekorasi acara puncak hitam](./dekor utama hitam.png)

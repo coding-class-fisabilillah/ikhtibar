@@ -19,6 +19,7 @@ format:
 ![](./katalog_img/tshirt model3.jpeg)
 ![](./katalog_img/tshirt design lain.jpeg)
 ![](./katalog_img/tshirt design lain2.jpeg)
+![](./katalog_img/produk_tambahan2.jpeg)
 ![](./katalog_img/pin bros.jpeg)
 ![](./katalog_img/mug.jpeg)
 ![](./katalog_img/tumbler.jpeg)
@@ -26,8 +27,3 @@ format:
 ![](./katalog_img/bundling 2.jpeg)
 ![](./katalog_img/doa harian.jpeg)
 ![](./katalog_img/anda belanja anda beramal.jpeg)
-
-![](./katalog_img/ayo beramal.jpeg)
-![](./katalog_img/doa harian2.jpeg)
-![](./katalog_img/tshirt 2 dekade.jpeg)
-![](./katalog_img/sst.jpeg)
